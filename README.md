@@ -20,7 +20,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-dheeraj-a1145830b)
 [![Portfolio](https://img.shields.io/badge/saidheeraj.co.in-000000?style=flat-square&logo=safari&logoColor=white)](https://saidheeraj.co.in)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:16saidheeraj@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/SaiDheeraj-19?style=flat-square&color=00f5c4&labelColor=000000&label=followers)](https://github.com/SaiDheeraj-19)
+
 
 </div>
 
