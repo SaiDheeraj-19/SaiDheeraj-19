@@ -64,9 +64,9 @@ A CS student from **Andhra Pradesh** who got tired of just reading about tech an
 ```
 ┌──────────────────────────────────────────────────────────┐
 │                                                          │
-│   🟠  Oracle    →   AI & ML Certified                   │
-│   🔵  Google    →   Cloud & AI Specialist               │
-│   🟢  NVIDIA    →   Generative AI Specialist            │
+│   🟠  Oracle    →   GenAI Certified                     │
+│   🔵  Google    →   GenAI Specialist                    │
+│   🟢  NVIDIA    →   DeepLearning Specialist            │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
