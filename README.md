@@ -239,8 +239,9 @@
 
 <br>
 
-## `7.0 TELEMETRY`
+## `7.0 SYSTEM OBSERVABILITY`
 
+### `[A] REPOSITORY HEALTH`
 <table width="100%">
   <tr>
     <td valign="top" width="50%" align="center">
@@ -258,15 +259,33 @@
       </picture>
     </td>
   </tr>
+</table>
+
+### `[B] ENGINEERING ACTIVITY`
+<table width="100%">
   <tr>
-    <td colspan="2" align="center">
-      <br>
-      <sub><strong>ACTIVITY GRAPH // CONTRIBUTION PIPELINE</strong></sub><br><br>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SaiDheeraj-19&bg_color=00000000&color=8b949e&line=444c56&point=c9d1d9&hide_border=true">
+        <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SaiDheeraj-19&bg_color=00000000&hide_border=true" width="100%">
+      </picture>
+    </td>
+  </tr>
+</table>
+
+### `[C] AUTOMATION & TRAFFIC`
+<table width="100%">
+  <tr>
+    <td align="center" width="80%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/dist/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/dist/github-contribution-grid-snake.svg">
         <img alt="Contribution pipeline telemetry" src="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/dist/github-contribution-grid-snake.svg" width="100%">
       </picture>
+    </td>
+    <td align="center" width="20%">
+      <sub><strong>VISITOR TELEMETRY</strong></sub><br><br>
+      <img src="https://komarev.com/ghpvc/?username=SaiDheeraj-19&style=flat-square&color=212529" alt="Visitor Count">
     </td>
   </tr>
 </table>
