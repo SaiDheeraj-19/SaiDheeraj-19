@@ -1,11 +1,15 @@
 <div align="center">
-  <img src="./assets/svg/hero-banner.svg" alt="R. Sai Dheeraj - System Specification" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/hero-banner.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/svg/hero-banner.svg">
+    <img alt="R. Sai Dheeraj - System Specification" src="./assets/svg/hero-banner.svg" width="100%">
+  </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <sub><strong>SYS_SPEC_V1.0</strong> • ARCHITECTURE DOCUMENTATION • <strong>MAINTAINER:</strong> R. SAI DHEERAJ</sub>
+  <sub><strong>SYS_SPEC_V2.0</strong> • ARCHITECTURE DOCUMENTATION • <strong>MAINTAINER:</strong> R. SAI DHEERAJ</sub>
 </div>
 
 <br><br>
@@ -13,183 +17,288 @@
 ## `1.0 ABSTRACT & OBJECTIVE`
 
 <p align="left">
-  The engineering entity designated as <b>R. Sai Dheeraj</b> operates at the intersection of Artificial Intelligence, Full Stack Development, and Distributed Systems. The primary operational objective is to design and deploy software architectures that resolve complex real-world constraints with high availability, low latency, and uncompromising aesthetic precision.
+  <strong>R. Sai Dheeraj</strong> is a software engineer focused on product engineering, system design, and scalable architectures. The primary operational objective is resolving technical constraints through pragmatic design decisions, robust backend infrastructure, and highly performant interfaces. Execution prioritizes maintainability, architectural clarity, and measurable impact over trend-driven adoption.
 </p>
 
 <br>
 
-## `2.0 DESIGN PRINCIPLES`
+## `2.0 CURRENT RESEARCH`
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <strong>Craftsmanship</strong><br>
-      <sub>Every module, endpoint, and pixel is deployed with intentionality. Software is not merely functional; it is a meticulously constructed asset.</sub>
+    <td width="25%"><strong>Current Build</strong></td>
+    <td>Optimizing state synchronization across distributed WebSockets for real-time collaboration.</td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Current Reading</strong></td>
+    <td><em>Designing Data-Intensive Applications</em> by Martin Kleppmann.</td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Current Learning</strong></td>
+    <td>Advanced concurrency models in Go and systems programming constraints.</td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Current Experiments</strong></td>
+    <td>Evaluating vector database latency for agentic LLM retrieval pipelines under heavy concurrent load.</td>
+  </tr>
+  <tr>
+    <td width="25%"><strong>Current Goals</strong></td>
+    <td>Deepen expertise in cloud-native deployment patterns and distributed caching strategies.</td>
+  </tr>
+</table>
+
+<br>
+
+## `3.0 ENGINEERING CAPABILITIES`
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Frontend Engineering</strong><br>
+      <sub>React, Next.js, Tailwind CSS</sub><br>
+      <a href="#50-system-dependencies--projects">StakeUp</a> • <a href="#50-system-dependencies--projects">ClassSync</a>
     </td>
-    <td width="50%">
-      <strong>Resilience</strong><br>
-      <sub>Architectures are designed anticipating failure. Graceful degradation, distributed state, and operational predictability are standard dependencies.</sub>
+    <td width="33%" valign="top">
+      <strong>Backend Engineering</strong><br>
+      <sub>Node.js, Express, FastAPI, WebSockets</sub><br>
+      <a href="#50-system-dependencies--projects">SonicBridge</a> • <a href="#50-system-dependencies--projects">HomeProof</a>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Artificial Intelligence</strong><br>
+      <sub>LLM Orchestration, RAG Pipelines</sub><br>
+      <a href="#50-system-dependencies--projects">Solvra</a> • <a href="#50-system-dependencies--projects">StakeUp</a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <br>
-      <strong>Clarity</strong><br>
-      <sub>Complex systems require simple interfaces. Cognitive load is systematically minimized through rigorous product design and logical abstractions.</sub>
+    <td width="33%" valign="top">
+      <br><strong>Databases</strong><br>
+      <sub>PostgreSQL, MongoDB, Redis</sub><br>
+      <a href="#40-professional-experience">RootedLabs</a> • <a href="#50-system-dependencies--projects">StakeUp</a>
     </td>
-    <td width="50%">
-      <br>
-      <strong>Curiosity</strong><br>
-      <sub>Continuous recalibration of the knowledge base. Adapting to modern primitives while respecting foundational computing principles.</sub>
+    <td width="33%" valign="top">
+      <br><strong>Security</strong><br>
+      <sub>JWT, OAuth, Rate Limiting</sub><br>
+      <a href="#50-system-dependencies--projects">ClassSync</a> • <a href="#40-professional-experience">RootedLabs</a>
+    </td>
+    <td width="33%" valign="top">
+      <br><strong>Computer Vision</strong><br>
+      <sub>Image Processing, OCR</sub><br>
+      <a href="#50-system-dependencies--projects">HomeProof</a>
     </td>
   </tr>
 </table>
 
 <br>
 
-## `3.0 RUNTIME METRICS`
+## `4.0 PROFESSIONAL EXPERIENCE`
+
+### RootedLabs
+<sub><strong>Web Development Intern</strong></sub>
 
 <table width="100%">
   <tr>
-    <td width="30%"><strong>Primary Process</strong></td>
-    <td>Architecting AI-powered, real-time web systems.</td>
+    <td width="20%" valign="top"><strong>Impact</strong></td>
+    <td>Reduced data retrieval latency and improved administrative dashboard throughput for internal teams.</td>
   </tr>
   <tr>
-    <td width="30%"><strong>Background Threads</strong></td>
-    <td>WebSockets, Agentic AI, Speech Pipelines, LLM Orchestration.</td>
+    <td width="20%" valign="top"><strong>Architecture</strong></td>
+    <td>Designed and deployed a modular REST API interacting with a normalized relational database, decoupling business logic from the presentation layer.</td>
   </tr>
   <tr>
-    <td width="30%"><strong>Memory Allocation</strong></td>
-    <td>Advanced component patterns, distributed database scaling, protocol optimization.</td>
+    <td width="20%" valign="top"><strong>Contributions</strong></td>
+    <td>Implemented robust authentication flows, optimized heavy database queries using indexing, and refactored legacy client-side state management into a predictable, centralized store.</td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top"><strong>Technologies</strong></td>
+    <td>React, Express, PostgreSQL, Redis, JWT.</td>
   </tr>
 </table>
 
 <br>
 
-## `4.0 SYSTEM DEPENDENCIES & ARCHITECTURE`
-
-```mermaid
-graph TD;
-  subgraph Interface_Layer
-    UI[Next.js / React]
-    Styling[Tailwind / CSS Modules]
-    State[Redux / Zustand]
-  end
-
-  subgraph Service_Layer
-    API[Node.js / Express]
-    Realtime[WebSockets / Socket.io]
-    AI[LLM Integration]
-  end
-
-  subgraph Persistence_Layer
-    SQL[(PostgreSQL)]
-    NoSQL[(MongoDB)]
-    Cache[(Redis)]
-  end
-  
-  UI --> API
-  UI --> Realtime
-  API --> SQL
-  API --> NoSQL
-  API --> AI
-  Realtime --> Cache
-```
-
-<br>
-
-## `5.0 PRODUCTION DEPLOYMENTS`
-
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Deployment Alpha</h3>
-      <sub>High-Availability Real-Time Application</sub><br><br>
-      <strong>Problem:</strong> Fragmented data streams causing high latency in client operations.<br>
-      <strong>Solution:</strong> A unified event-driven architecture using WebSockets.<br>
-      <strong>Decisions:</strong> Utilized Redis for pub/sub messaging to ensure state synchronization across node clusters.<br>
-      <br>
-      <a href="#">Repository</a> • <a href="#">Live Endpoint</a> • <a href="#">Documentation</a>
-    </td>
-    <td valign="top" width="50%">
-      <img src="./assets/svg/project-alpha-placeholder.svg" alt="Alpha Diagram" width="100%">
-    </td>
-  </tr>
-</table>
-
-<br>
+## `5.0 SYSTEM DEPENDENCIES & PROJECTS`
 
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <img src="./assets/svg/project-beta-placeholder.svg" alt="Beta Diagram" width="100%">
+      <h3>StakeUp</h3>
+      <sub>First Place Industry Simulation Platform</sub><br><br>
+      <strong>Problem:</strong> Lack of realistic, scalable environments for simulating high-frequency corporate stakeholder interactions.<br>
+      <strong>Solution:</strong> A full-stack Next.js application leveraging AI for dynamic stakeholder behavior simulation.<br>
+      <strong>Impact:</strong> Secured 1st place in the Syntax2Code Hackathon by demonstrating a highly scalable, fault-tolerant simulation engine.<br>
+      <br>
+      <details>
+        <summary><strong>View Architectural Breakdown</strong></summary>
+        <br>
+        <strong>Architecture:</strong> Client-side rendering integrated with a serverless backend processing heavy LLM inference queues.<br>
+        <strong>Engineering Decisions:</strong> Offloaded heavy state computations to serverless functions to maintain 60FPS UI rendering.<br>
+        <strong>Challenges:</strong> Managing LLM rate limits and inference latency. Solved by implementing a custom priority queue and caching layer.<br>
+        <strong>Technologies:</strong> Next.js, Node.js, OpenAI API, PostgreSQL.<br>
+        <strong>Lessons Learned:</strong> Edge caching strategies for AI responses significantly reduce operational costs.<br>
+      </details>
+      <br>
+      <a href="#">Repository</a> • <a href="#">Live Demo</a>
     </td>
     <td valign="top" width="50%">
-      <h3>Deployment Beta</h3>
-      <sub>AI-Integrated Product Platform</sub><br><br>
-      <strong>Problem:</strong> Inefficient manual data processing pipelines scaling poorly.<br>
-      <strong>Solution:</strong> Agentic AI pipeline with sub-second inference caching.<br>
-      <strong>Decisions:</strong> Orchestrating multiple LLM calls through a custom priority queue to manage rate limits.<br>
-      <br>
-      <a href="#">Repository</a> • <a href="#">Live Endpoint</a> • <a href="#">Documentation</a>
+      <img src="./assets/svg/arch-stakeup.svg" alt="StakeUp Architecture" width="100%">
     </td>
   </tr>
 </table>
 
 <br>
-
-## `6.0 OPERATIONAL HISTORY`
 
 <table width="100%">
   <tr>
-    <td width="20%"><strong>Current</strong></td>
-    <td><strong>Independent Engineer & Architect</strong><br><sub>Designing robust enterprise solutions and agentic AI integrations.</sub></td>
-  </tr>
-  <tr>
-    <td width="20%"><strong>2024</strong></td>
-    <td><strong>Product Developer</strong><br><sub>Shipped high-performance, real-time web platforms from zero to one.</sub></td>
-  </tr>
-  <tr>
-    <td width="20%"><strong>2023</strong></td>
-    <td><strong>CS Undergraduate</strong><br><sub>Establishing foundational expertise in distributed computing and systemic frameworks.</sub></td>
+    <td valign="top" width="50%">
+      <img src="./assets/svg/arch-sonicbridge.svg" alt="SonicBridge Architecture" width="100%">
+    </td>
+    <td valign="top" width="50%">
+      <h3>SonicBridge</h3>
+      <sub>Low-Latency Audio Streaming Protocol</sub><br><br>
+      <strong>Problem:</strong> High latency and jitter in standard web-based audio transmission protocols.<br>
+      <strong>Solution:</strong> Custom implementation using raw WebSockets to stream binary audio buffers in real-time.<br>
+      <strong>Impact:</strong> Achieved sub-50ms latency across distributed clients, suitable for real-time collaboration.<br>
+      <br>
+      <details>
+        <summary><strong>View Architectural Breakdown</strong></summary>
+        <br>
+        <strong>Architecture:</strong> Event-driven WebSocket server orchestrating peer connections and buffer synchronization.<br>
+        <strong>Engineering Decisions:</strong> Bypassed standard HTTP overhead by establishing persistent TCP connections and sending compressed binary packets.<br>
+        <strong>Challenges:</strong> Handling packet loss and buffer underruns in the browser's AudioContext.<br>
+        <strong>Technologies:</strong> Node.js, WebSockets, Web Audio API, ArrayBuffers.<br>
+        <strong>Lessons Learned:</strong> Managing memory allocation manually is critical when streaming continuous binary data in V8.<br>
+      </details>
+      <br>
+      <a href="#">Repository</a> • <a href="#">Live Demo</a>
+    </td>
   </tr>
 </table>
 
 <br>
 
-## `7.0 KNOWLEDGE BASE & OPEN SOURCE`
+<table width="100%">
+  <tr>
+    <td width="30%"><strong>HomeProof</strong></td>
+    <td>
+      Computer Vision pipeline for automated property validation. Built with FastAPI and OpenCV. Overcame inconsistent lighting via histogram equalization.<br>
+      <a href="#">Repository</a> • <a href="#">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><strong>ClassSync</strong></td>
+    <td>
+      Secure authentication and scheduling system. Deployed JWT-based stateless auth and role-based access control (RBAC) to handle concurrent university schedules.<br>
+      <a href="#">Repository</a> • <a href="#">Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><strong>Solvra</strong></td>
+    <td>
+      Agentic AI problem solver. Utilized prompt chaining and multi-agent coordination to resolve complex logic constraints autonomously.<br>
+      <a href="#">Repository</a> • <a href="#">Live Demo</a>
+    </td>
+  </tr>
+</table>
 
-The open-source ecosystem provides the primitives for modern infrastructure. Development cycles are consistently directed towards improving developer tooling, enhancing system observability, and refining runtime performance metrics.
+<br>
+
+## `6.0 ENGINEERING ACHIEVEMENTS`
+
+<table width="100%">
+  <tr>
+    <td width="15%" align="center"><h1>🥇</h1></td>
+    <td width="85%">
+      <strong>Syntax2Code Industry Simulation Hackathon</strong> — 1st Place<br>
+      <sub><strong>Project:</strong> StakeUp | <strong>Role:</strong> Team Leader & Full Stack Developer</sub><br>
+      <strong>Contribution:</strong> Architected the core system, integrated the AI engine, and led frontend development.<br>
+      <strong>Lessons Learned:</strong> Fast architectural iteration and strict component boundaries are essential during high-pressure sprints.
+    </td>
+  </tr>
+  <tr>
+    <td width="15%" align="center"><h1>🥈</h1></td>
+    <td width="85%">
+      <strong>TechXplore</strong> — 2nd Place<br>
+      <sub><strong>Focus:</strong> Algorithm Optimization & Systems Design</sub><br>
+      <strong>Impact:</strong> Engineered an optimized data ingestion pipeline that outperformed 90% of competing implementations under extreme load testing.
+    </td>
+  </tr>
+  <tr>
+    <td width="15%" align="center"><h1>🥉</h1></td>
+    <td width="85%">
+      <strong>NEXORA</strong> — 3rd Place<br>
+      <sub><strong>Focus:</strong> Product Engineering & Rapid Prototyping</sub><br>
+      <strong>Impact:</strong> Delivered a fully functional Minimum Viable Product within 24 hours, focusing strictly on core user constraints and robust error handling.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## `7.0 KNOWLEDGE BASE`
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Current Technologies</strong><br>
+      <sub>Go, Rust, WebAssembly, Kubernetes, Kafka.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>Research Areas</strong><br>
+      <sub>Distributed Consensus Algorithms, Edge Computing, Zero-Trust Architecture.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br><strong>Design Principles</strong><br>
+      <sub>Immutability, Decoupling, Interface Segregation, Least Privilege.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <br><strong>Open Source Goals</strong><br>
+      <sub>Contributing to major ORMs, improving Go standard library observability.</sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 ## `8.0 TELEMETRY`
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/github-stats-placeholder-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/svg/github-stats-placeholder-light.svg">
-    <img alt="System Stats" src="./assets/svg/github-stats-placeholder-light.svg">
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <sub><strong>ACTIVITY GRAPH // CONTRIBUTION PIPELINE</strong></sub><br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/github-snake-placeholder-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/svg/github-snake-placeholder-light.svg">
-    <img alt="Contribution pipeline telemetry" src="./assets/svg/github-snake-placeholder-light.svg">
-  </picture>
-</div>
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=8b949e&icon_color=000000&theme=transparent">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/svg/github-stats-placeholder-light.svg">
+        <img alt="System Stats" src="./assets/svg/github-stats-placeholder-light.svg" width="100%">
+      </picture>
+    </td>
+    <td valign="top" width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDheeraj-19&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=8b949e&theme=transparent">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/svg/github-stats-placeholder-light.svg">
+        <img alt="Top Languages" src="./assets/svg/github-stats-placeholder-light.svg" width="100%">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <sub><strong>ACTIVITY GRAPH // CONTRIBUTION PIPELINE</strong></sub><br><br>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/github-contribution-grid-snake.svg">
+        <img alt="Contribution pipeline telemetry" src="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/github-contribution-grid-snake.svg" width="100%">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 ## `9.0 PROTOCOL TERMINATION // HANDSHAKE`
 
 <p align="left">
-  For architectural discussions, engineering collaborations, or operational deployment inquiries, initialize contact via the following protocols:
+  This specification outlines current operational parameters. For deep-dive architectural discussions, engineering collaborations, or infrastructure inquiries, initiate a handshake protocol:
 </p>
 
 <table width="100%">

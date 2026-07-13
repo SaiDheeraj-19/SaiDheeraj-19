@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <style>
+    .bg { fill: #f8f9fa; }
+    .grid { stroke: #e9ecef; stroke-width: 1; }
+    .text-sub { font-family: ui-sans-serif, system-ui, -apple-system, sans-serif; font-size: 12px; fill: #6c757d; letter-spacing: 2px; text-transform: uppercase; }
+    .accent { stroke: #000000; stroke-width: 1.5; fill: none; }
+    .node { fill: #ffffff; stroke: #000000; stroke-width: 2; }
+    .highlight { fill: #000000; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0d1117; }
+      .grid { stroke: #21262d; }
+      .text-sub { fill: #8b949e; }
+      .accent { stroke: #c9d1d9; }
+      .node { fill: #0d1117; stroke: #c9d1d9; }
+      .highlight { fill: #c9d1d9; }
+    }
+  </style>
+  
+  <rect width="600" height="400" class="bg" rx="8" />
+  
+  <!-- Grid -->
+  <pattern id="gridPatternArch" width="20" height="20" patternUnits="userSpaceOnUse">
+    <circle cx="10" cy="10" r="1" fill="#ced4da" class="grid" />
+  </pattern>
+  <rect width="600" height="400" fill="url(#gridPatternArch)" rx="8" />
+  
+  <!-- Boundaries -->
+  <rect x="250" y="50" width="100" height="300" class="accent" rx="4" stroke-dasharray="4" opacity="0.3"/>
+  <rect x="420" y="50" width="130" height="300" class="accent" rx="4" stroke-dasharray="4" opacity="0.3"/>
+  
+  <!-- Nodes -->
+  <rect x="50" y="180" width="120" height="40" class="node" rx="4" />
+  <text x="110" y="204" text-anchor="middle" class="text-sub" style="font-size: 10px;">CLIENT UI</text>
+  
+  <rect x="260" y="80" width="80" height="40" class="node" rx="4" />
+  <text x="300" y="104" text-anchor="middle" class="text-sub" style="font-size: 10px;">EDGE API</text>
+  
+  <rect x="260" y="180" width="80" height="40" class="node" rx="4" />
+  <text x="300" y="204" text-anchor="middle" class="text-sub" style="font-size: 10px;">QUEUE</text>
+
+  <rect x="260" y="280" width="80" height="40" class="node" rx="4" />
+  <text x="300" y="304" text-anchor="middle" class="text-sub" style="font-size: 10px;">CACHE</text>
+  
+  <circle cx="485" cy="130" r="30" class="node" />
+  <text x="485" y="134" text-anchor="middle" class="text-sub" style="font-size: 10px;">LLM</text>
+  
+  <rect x="445" y="280" width="80" height="40" class="node" rx="4" />
+  <text x="485" y="304" text-anchor="middle" class="text-sub" style="font-size: 10px;">POSTGRES</text>
+  
+  <!-- Connections -->
+  <path d="M 170 200 L 260 100" class="accent" />
+  <path d="M 170 200 L 260 200" class="accent" />
+  <path d="M 340 100 L 455 130" class="accent" />
+  <path d="M 340 200 L 455 130" class="accent" />
+  <path d="M 340 200 L 445 300" class="accent" />
+  <path d="M 300 220 L 300 280" class="accent" stroke-dasharray="4"/>
+  
+  <!-- Active dots -->
+  <circle cx="215" cy="150" r="3" class="highlight" />
+  <circle cx="215" cy="200" r="3" class="highlight" />
+  <circle cx="397" cy="115" r="3" class="highlight" />
+  <circle cx="392" cy="250" r="3" class="highlight" />
+  
+  <text x="300" y="380" text-anchor="middle" class="text-sub">STAKEUP ARCHITECTURE: LLM ORCHESTRATION PIPELINE</text>
+</svg>
