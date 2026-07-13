@@ -246,16 +246,16 @@
   <tr>
     <td valign="top" width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=8b949e&icon_color=000000&theme=transparent">
-        <source media="(prefers-color-scheme: light)" srcset="./assets/svg/github-stats-placeholder-light.svg">
-        <img alt="System Stats" src="./assets/svg/github-stats-placeholder-light.svg" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=8b949e&theme=transparent">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&bg_color=00000000&title_color=24292f&text_color=24292f&icon_color=24292f&theme=transparent">
+        <img alt="System Stats" src="https://github-readme-stats.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&bg_color=00000000&title_color=24292f&text_color=24292f&icon_color=24292f&theme=transparent" width="100%">
       </picture>
     </td>
     <td valign="top" width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDheeraj-19&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=8b949e&theme=transparent">
-        <source media="(prefers-color-scheme: light)" srcset="./assets/svg/github-stats-placeholder-light.svg">
-        <img alt="Top Languages" src="./assets/svg/github-stats-placeholder-light.svg" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDheeraj-19&layout=compact&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&theme=transparent">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDheeraj-19&layout=compact&hide_border=true&bg_color=00000000&title_color=24292f&text_color=24292f&theme=transparent">
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDheeraj-19&layout=compact&hide_border=true&bg_color=00000000&title_color=24292f&text_color=24292f&theme=transparent" width="100%">
       </picture>
     </td>
   </tr>
@@ -267,7 +267,8 @@
     <td align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SaiDheeraj-19&bg_color=00000000&color=8b949e&line=444c56&point=c9d1d9&hide_border=true">
-        <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SaiDheeraj-19&bg_color=00000000&hide_border=true" width="100%">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SaiDheeraj-19&bg_color=00000000&color=24292f&line=24292f&point=24292f&hide_border=true">
+        <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SaiDheeraj-19&bg_color=00000000&color=24292f&line=24292f&point=24292f&hide_border=true" width="100%">
       </picture>
     </td>
   </tr>
@@ -278,9 +279,9 @@
   <tr>
     <td align="center" width="80%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/dist/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/dist/github-contribution-grid-snake.svg">
-        <img alt="Contribution pipeline telemetry" src="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/dist/github-contribution-grid-snake.svg" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/github-contribution-grid-snake.svg">
+        <img alt="Contribution pipeline telemetry" src="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/github-contribution-grid-snake.svg" width="100%">
       </picture>
     </td>
     <td align="center" width="20%">
@@ -300,24 +301,9 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="33%">
-      <a href="mailto:16saidheeraj@gmail.com">
-        <img src="https://cdn.simpleicons.org/gmail/8b949e" width="28" height="28" alt="Email"><br><br>
-        <strong>SMTP</strong> // Email
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://linkedin.com/in/sai-dheeraj-a1145830b">
-        <img src="https://cdn.simpleicons.org/linkedin/8b949e" width="28" height="28" alt="LinkedIn"><br><br>
-        <strong>TCP</strong> // LinkedIn
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://saidheeraj.co.in">
-        <img src="https://cdn.simpleicons.org/w3c/8b949e" width="28" height="28" alt="Portfolio"><br><br>
-        <strong>HTTP</strong> // Portfolio
-      </a>
-    </td>
+    <td align="center" width="33%"><a href="mailto:16saidheeraj@gmail.com"><strong>SMTP</strong> // Email</a></td>
+    <td align="center" width="33%"><a href="https://linkedin.com/in/sai-dheeraj-a1145830b"><strong>TCP</strong> // LinkedIn</a></td>
+    <td align="center" width="33%"><a href="https://saidheeraj.co.in"><strong>HTTP</strong> // Portfolio</a></td>
   </tr>
 </table>
 
