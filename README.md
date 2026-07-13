@@ -77,64 +77,29 @@
   <tr>
     <td width="33%" valign="top">
       <strong>Frontend Engineering</strong><br>
-      <sub>
-        React 19<br>
-        Next.js<br>
-        TypeScript<br>
-        Tailwind CSS<br>
-        React Native
-      </sub>
+      <sub>React 19 • Next.js • TypeScript • Tailwind CSS • React Native</sub>
     </td>
     <td width="33%" valign="top">
       <strong>Backend Engineering</strong><br>
-      <sub>
-        FastAPI<br>
-        Node.js<br>
-        Express.js<br>
-        REST APIs<br>
-        WebSockets
-      </sub>
+      <sub>FastAPI • Node.js • Express.js • REST APIs • WebSockets</sub>
     </td>
     <td width="33%" valign="top">
       <strong>Artificial Intelligence</strong><br>
-      <sub>
-        OpenAI API<br>
-        Google Gemini<br>
-        YOLOv8<br>
-        Speech AI
-      </sub>
+      <sub>OpenAI API • Google Gemini • YOLOv8 • Speech AI</sub>
     </td>
   </tr>
   <tr>
-    <td valign="top">
-      <br>
-      <strong>Data Engineering</strong><br>
-      <sub>
-        PostgreSQL<br>
-        MongoDB<br>
-        Supabase
-      </sub>
+    <td width="33%" valign="top">
+      <br><strong>Data Engineering</strong><br>
+      <sub>PostgreSQL • MongoDB • Supabase</sub>
     </td>
-    <td valign="top">
-      <br>
-      <strong>Security</strong><br>
-      <sub>
-        JWT Authentication<br>
-        RBAC<br>
-        Bcrypt<br>
-        Geofencing
-      </sub>
+    <td width="33%" valign="top">
+      <br><strong>Security</strong><br>
+      <sub>JWT Authentication • RBAC • Bcrypt • Geofencing</sub>
     </td>
-    <td valign="top">
-      <br>
-      <strong>Developer Tools</strong><br>
-      <sub>
-        Git<br>
-        GitHub<br>
-        Docker<br>
-        Vercel<br>
-        Render
-      </sub>
+    <td width="33%" valign="top">
+      <br><strong>Developer Tools</strong><br>
+      <sub>Git • GitHub • Docker • Vercel • Render</sub>
     </td>
   </tr>
 </table>
