@@ -166,18 +166,14 @@ The open-source ecosystem provides the primitives for modern infrastructure. Dev
 ## `8.0 TELEMETRY`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=555555&icon_color=000000&hide_title=true&hide_rank=true" alt="System Stats" />
+  <img src="./assets/svg/github-stats-placeholder.svg" alt="System Stats" />
 </div>
 
 <br>
 
 <div align="center">
   <sub><strong>ACTIVITY GRAPH // CONTRIBUTION PIPELINE</strong></sub><br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution pipeline telemetry" src="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img alt="Contribution pipeline telemetry" src="./assets/svg/github-snake-placeholder.svg">
 </div>
 
 <br>

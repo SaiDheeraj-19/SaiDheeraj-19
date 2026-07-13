@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%">
+  <style>
+    .bg { fill: #f8f9fa; stroke: #e9ecef; stroke-width: 1; stroke-dasharray: 4; }
+    .text-main { font-family: ui-monospace, monospace; font-size: 14px; fill: #6c757d; }
+    .text-sub { font-family: ui-sans-serif, sans-serif; font-size: 10px; fill: #adb5bd; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0d1117; stroke: #30363d; }
+      .text-main { fill: #8b949e; }
+      .text-sub { fill: #6e7681; }
+    }
+  </style>
+  <rect width="800" height="200" class="bg" rx="4" />
+  <text x="400" y="95" text-anchor="middle" class="text-main">[CONTRIBUTION SNAKE PLACEHOLDER]</text>
+  <text x="400" y="115" text-anchor="middle" class="text-sub">Configure GitHub Actions to generate Snake SVG on 'output' branch.</text>
+</svg>
