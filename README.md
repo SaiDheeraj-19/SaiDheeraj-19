@@ -25,24 +25,47 @@
 
 <br>
 
-## `2.0 CURRENT RESEARCH`
+## `2.0 CURRENT EXECUTION`
 
 <table width="100%">
   <tr>
     <td width="25%"><strong>Current Build</strong></td>
-    <td><strong>HomeProof</strong> — AI-powered property inspection platform.</td>
+    <td>
+      AI-powered software platforms focused on accountability, property inspection,
+      and intelligent productivity using modern web technologies and LLMs.
+    </td>
   </tr>
+
+  <tr>
+    <td width="25%"><strong>Current Focus</strong></td>
+    <td>
+      Full Stack Development • Artificial Intelligence • System Design •
+      Real-Time Applications
+    </td>
+  </tr>
+
   <tr>
     <td width="25%"><strong>Current Learning</strong></td>
-    <td>Agentic AI, Model Context Protocol (MCP), System Design.</td>
+    <td>
+      Agentic AI, Model Context Protocol (MCP),
+      Distributed Systems, and scalable backend architecture.
+    </td>
   </tr>
+
   <tr>
     <td width="25%"><strong>Current Research</strong></td>
-    <td>LLM Workflows, Computer Vision, Real-Time Systems, Speech Intelligence.</td>
+    <td>
+      LLM-powered workflows, Computer Vision,
+      AI-assisted developer tools, and intelligent automation.
+    </td>
   </tr>
+
   <tr>
-    <td width="25%"><strong>Current Goal</strong></td>
-    <td>Build scalable AI-native software products.</td>
+    <td width="25%"><strong>Current Objective</strong></td>
+    <td>
+      Build AI-native products that solve meaningful problems while continuously
+      improving software architecture and engineering craftsmanship.
+    </td>
   </tr>
 </table>
 
