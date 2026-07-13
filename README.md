@@ -284,52 +284,33 @@
 
 ## `7.0 SYSTEM OBSERVABILITY`
 
-### `[A] REPOSITORY HEALTH`
 <table width="100%">
   <tr>
-    <td valign="top" width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=8b949e&theme=transparent">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&bg_color=00000000&title_color=24292f&text_color=24292f&icon_color=24292f&theme=transparent">
-        <img alt="System Stats" src="https://github-readme-stats.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&bg_color=00000000&title_color=24292f&text_color=24292f&icon_color=24292f&theme=transparent" width="100%">
-      </picture>
+    <td width="33%" valign="top">
+      <strong>Repository Health</strong><br>
+      <sub>
+        • GitHub Statistics<br>
+        • Contribution Streak<br>
+        • Top Languages<br>
+        • Repository Activity
+      </sub>
     </td>
-    <td valign="top" width="50%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDheeraj-19&layout=compact&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&theme=transparent">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDheeraj-19&layout=compact&hide_border=true&bg_color=00000000&title_color=24292f&text_color=24292f&theme=transparent">
-        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDheeraj-19&layout=compact&hide_border=true&bg_color=00000000&title_color=24292f&text_color=24292f&theme=transparent" width="100%">
-      </picture>
+    <td width="33%" valign="top">
+      <strong>Engineering Activity</strong><br>
+      <sub>
+        • Contribution Graph<br>
+        • Activity Graph<br>
+        • Recent Commits<br>
+        • Latest Repositories
+      </sub>
     </td>
-  </tr>
-</table>
-
-### `[B] ENGINEERING ACTIVITY`
-<table width="100%">
-  <tr>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SaiDheeraj-19&bg_color=00000000&color=8b949e&line=444c56&point=c9d1d9&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SaiDheeraj-19&bg_color=00000000&color=24292f&line=24292f&point=24292f&hide_border=true">
-        <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SaiDheeraj-19&bg_color=00000000&color=24292f&line=24292f&point=24292f&hide_border=true" width="100%">
-      </picture>
-    </td>
-  </tr>
-</table>
-
-### `[C] AUTOMATION & TRAFFIC`
-<table width="100%">
-  <tr>
-    <td align="center" width="80%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/github-contribution-grid-snake.svg">
-        <img alt="Contribution pipeline telemetry" src="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/github-contribution-grid-snake.svg" width="100%">
-      </picture>
-    </td>
-    <td align="center" width="20%">
-      <sub><strong>VISITOR TELEMETRY</strong></sub><br><br>
-      <img src="https://komarev.com/ghpvc/?username=SaiDheeraj-19&style=flat-square&color=212529" alt="Visitor Count">
+    <td width="33%" valign="top">
+      <strong>Automation</strong><br>
+      <sub>
+        • Contribution Snake<br>
+        • Visitor Counter<br>
+        • Profile Views
+      </sub>
     </td>
   </tr>
 </table>
