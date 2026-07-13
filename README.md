@@ -176,27 +176,70 @@
 
 <br>
 
-## `5.0 KNOWLEDGE BASE`
+## `5.0 KNOWLEDGE DOMAINS`
 
+### `[A] ENGINEERING DOMAINS & RESEARCH`
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <strong>Current Technologies</strong><br>
-      <sub>Go, Rust, WebAssembly, Kubernetes, Kafka.</sub>
+      <strong>Core Domains</strong><br>
+      <sub>Artificial Intelligence, Full Stack Engineering, Real-Time Systems, Computer Vision, Software Architecture, Developer Experience.</sub>
     </td>
     <td width="50%" valign="top">
-      <strong>Research Areas</strong><br>
-      <sub>Distributed Consensus Algorithms, Edge Computing, Zero-Trust Architecture.</sub>
+      <strong>Current Research</strong><br>
+      <sub>Agentic AI, Model Context Protocol (MCP), Large Language Model Systems, Computer Vision, Real-Time Communication, Distributed Systems.</sub>
+    </td>
+  </tr>
+</table>
+
+### `[B] TECHNOLOGY ECOSYSTEM`
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Frontend</strong><br>
+      <sub>React 19, Next.js, TypeScript, Tailwind CSS.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Backend</strong><br>
+      <sub>FastAPI, Node.js, Express.js, REST APIs, WebSockets.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Artificial Intelligence</strong><br>
+      <sub>OpenAI API, Google Gemini, YOLOv8, Speech AI.</sub>
     </td>
   </tr>
   <tr>
+    <td width="33%" valign="top">
+      <br><strong>Databases</strong><br>
+      <sub>PostgreSQL, MongoDB, Supabase.</sub>
+    </td>
+    <td width="66%" colspan="2" valign="top">
+      <br><strong>Cloud & DevOps</strong><br>
+      <sub>Docker, Vercel, Render.</sub>
+    </td>
+  </tr>
+</table>
+
+### `[C] ENGINEERING PRINCIPLES & OBJECTIVES`
+<table width="100%">
+  <tr>
     <td width="50%" valign="top">
-      <br><strong>Design Principles</strong><br>
-      <sub>Immutability, Decoupling, Interface Segregation, Least Privilege.</sub>
+      <strong>Principles</strong><br>
+      <sub>
+        • Build software that solves real problems.<br>
+        • Prioritize maintainability over complexity.<br>
+        • Design systems for scalability and reliability.<br>
+        • Learn continuously and iterate through execution.
+      </sub>
     </td>
     <td width="50%" valign="top">
-      <br><strong>Open Source Goals</strong><br>
-      <sub>Contributing to major ORMs, improving Go standard library observability.</sub>
+      <strong>Next Objectives</strong><br>
+      <sub>
+        • Build AI-native software products.<br>
+        • Contribute to meaningful open-source projects.<br>
+        • Deepen expertise in scalable backend architecture.<br>
+        • Master distributed systems and modern AI infrastructure.
+      </sub>
     </td>
   </tr>
 </table>
