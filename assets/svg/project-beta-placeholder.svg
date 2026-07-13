@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <style>
+    .bg { fill: #f8f9fa; }
+    .grid { stroke: #e9ecef; stroke-width: 1; }
+    .text-sub { font-family: ui-sans-serif, system-ui, -apple-system, sans-serif; font-size: 12px; fill: #6c757d; letter-spacing: 2px; }
+    .accent { stroke: #000000; stroke-width: 1.5; fill: none; }
+    .node { fill: #ffffff; stroke: #000000; stroke-width: 2; }
+    .active { fill: #000000; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0d1117; }
+      .grid { stroke: #21262d; }
+      .text-sub { fill: #8b949e; }
+      .accent { stroke: #c9d1d9; }
+      .node { fill: #0d1117; stroke: #c9d1d9; }
+      .active { fill: #c9d1d9; }
+    }
+  </style>
+  
+  <rect width="600" height="400" class="bg" rx="8" />
+  
+  <!-- Grid -->
+  <pattern id="gridPatternBeta" width="20" height="20" patternUnits="userSpaceOnUse">
+    <line x1="0" y1="0" x2="20" y2="0" class="grid" />
+    <line x1="0" y1="0" x2="0" y2="20" class="grid" />
+  </pattern>
+  <rect width="600" height="400" fill="url(#gridPatternBeta)" rx="8" />
+  
+  <!-- AI Agentic Diagram Abstract -->
+  <rect x="150" y="80" width="300" height="240" class="accent" rx="4" opacity="0.3"/>
+  
+  <!-- Nodes -->
+  <rect x="250" y="120" width="100" height="40" class="node" rx="4" />
+  <rect x="250" y="200" width="100" height="40" class="node" rx="4" />
+  <rect x="250" y="280" width="100" height="40" class="node" rx="4" />
+  
+  <circle cx="100" cy="220" r="25" class="node" />
+  <circle cx="500" cy="220" r="25" class="node" />
+  
+  <!-- Arrows -->
+  <path d="M 125 220 L 250 140" class="accent" stroke-dasharray="4" />
+  <path d="M 125 220 L 250 220" class="accent" stroke-dasharray="4" />
+  <path d="M 125 220 L 250 300" class="accent" stroke-dasharray="4" />
+  
+  <path d="M 350 140 L 475 220" class="accent" />
+  <path d="M 350 220 L 475 220" class="accent" />
+  <path d="M 350 300 L 475 220" class="accent" />
+  
+  <!-- Dots on active path -->
+  <circle cx="187" cy="180" r="4" class="active" />
+  <circle cx="412" cy="220" r="4" class="active" />
+  
+  <!-- Labels -->
+  <text x="300" y="144" text-anchor="middle" class="text-sub" style="font-size: 10px;">LLM 1</text>
+  <text x="300" y="224" text-anchor="middle" class="text-sub" style="font-size: 10px;">LLM 2</text>
+  <text x="300" y="304" text-anchor="middle" class="text-sub" style="font-size: 10px;">LLM 3</text>
+  
+  <text x="300" y="350" text-anchor="middle" class="text-sub">AGENTIC PIPELINE ORCHESTRATION</text>
+</svg>
