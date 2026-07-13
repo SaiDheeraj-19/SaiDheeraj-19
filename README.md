@@ -384,25 +384,15 @@
   This specification outlines current operational parameters. For deep-dive architectural discussions, engineering collaborations, or infrastructure inquiries, initiate a handshake protocol:
 </p>
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <a href="mailto:16saidheeraj@gmail.com">
-        <strong>SMTP</strong> // Email
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://linkedin.com/in/sai-dheeraj-a1145830b">
-        <strong>TCP</strong> // LinkedIn
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://saidheeraj.co.in">
-        <strong>HTTP</strong> // Portfolio
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <br>
+  <a href="mailto:16saidheeraj@gmail.com"><strong>SMTP</strong> // Email</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sai-dheeraj-a1145830b"><strong>TCP</strong> // LinkedIn</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://saidheeraj.co.in"><strong>HTTP</strong> // Portfolio</a>
+  <br><br>
+</div>
 
 <br><br>
 
