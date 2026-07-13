@@ -9,7 +9,10 @@
 <br>
 
 <div align="center">
-  <sub><strong>SYS_SPEC_V2.1</strong> • ARCHITECTURE DOCUMENTATION • <strong>MAINTAINER:</strong> R. SAI DHEERAJ</sub>
+  <sub><strong>ENGINEERING SPECIFICATION</strong> • REVISION 2026.07</sub><br>
+  <sub><strong>MAINTAINER:</strong> R. SAI DHEERAJ</sub><br>
+  <sub>B.Tech Computer Science & Engineering • G.P.C.E.T</sub><br>
+  <sub>AI • Full Stack • System Design</sub>
 </div>
 
 <br><br>
@@ -27,23 +30,19 @@
 <table width="100%">
   <tr>
     <td width="25%"><strong>Current Build</strong></td>
-    <td>Optimizing state synchronization across distributed WebSockets for real-time collaboration.</td>
-  </tr>
-  <tr>
-    <td width="25%"><strong>Current Reading</strong></td>
-    <td><em>Designing Data-Intensive Applications</em> by Martin Kleppmann.</td>
+    <td><strong>HomeProof</strong> — AI-powered property inspection platform.</td>
   </tr>
   <tr>
     <td width="25%"><strong>Current Learning</strong></td>
-    <td>Advanced concurrency models in Go and systems programming constraints.</td>
+    <td>Agentic AI, Model Context Protocol (MCP), System Design.</td>
   </tr>
   <tr>
-    <td width="25%"><strong>Current Experiments</strong></td>
-    <td>Evaluating vector database latency for agentic LLM retrieval pipelines under heavy concurrent load.</td>
+    <td width="25%"><strong>Current Research</strong></td>
+    <td>LLM Workflows, Computer Vision, Real-Time Systems, Speech Intelligence.</td>
   </tr>
   <tr>
-    <td width="25%"><strong>Current Goals</strong></td>
-    <td>Deepen expertise in cloud-native deployment patterns and distributed caching strategies.</td>
+    <td width="25%"><strong>Current Goal</strong></td>
+    <td>Build scalable AI-native software products.</td>
   </tr>
 </table>
 
@@ -65,8 +64,8 @@
     </td>
     <td width="33%" valign="top">
       <strong>Artificial Intelligence</strong><br>
-      <sub>LLM Orchestration, RAG Pipelines</sub><br>
-      <a href="#40-system-dependencies--projects">Solvra</a> • <a href="#40-system-dependencies--projects">StakeUp</a>
+      <sub>OpenAI API, Google Gemini, YOLOv8, Speech-to-Text, Computer Vision</sub><br>
+      <a href="#40-system-dependencies--projects">Solvra</a> • <a href="#40-system-dependencies--projects">StakeUp</a> • <a href="#40-system-dependencies--projects">HomeProof</a>
     </td>
   </tr>
   <tr>
@@ -81,9 +80,7 @@
       <a href="#40-system-dependencies--projects">ClassSync</a> • <a href="#60-operational-history">RootedLabs</a>
     </td>
     <td width="33%" valign="top">
-      <br><strong>Computer Vision</strong><br>
-      <sub>Image Processing, OCR</sub><br>
-      <a href="#40-system-dependencies--projects">HomeProof</a>
+      
     </td>
   </tr>
 </table>
@@ -96,10 +93,10 @@
   <tr>
     <td valign="top" width="50%">
       <h3>StakeUp</h3>
-      <sub>First Place Industry Simulation Platform</sub><br><br>
-      <strong>Problem:</strong> Lack of realistic, scalable environments for simulating high-frequency corporate stakeholder interactions.<br>
-      <strong>Solution:</strong> A full-stack Next.js application leveraging AI for dynamic stakeholder behavior simulation.<br>
-      <strong>Impact:</strong> Secured 1st place in the Syntax2Code Hackathon by demonstrating a highly scalable, fault-tolerant simulation engine.<br>
+      <sub>AI-Powered Accountability Platform</sub><br><br>
+      <strong>Problem:</strong> Lack of automated, scalable systems for maintaining accountability and tracking goals.<br>
+      <strong>Solution:</strong> A full-stack Next.js application leveraging AI for dynamic goal tracking and accountability.<br>
+      <strong>Impact:</strong> Secured 1st place in the Syntax2Code Hackathon.<br>
       <br>
       <details>
         <summary><strong>View Architectural Breakdown</strong></summary>
@@ -108,7 +105,6 @@
         <strong>Engineering Decisions:</strong> Offloaded heavy state computations to serverless functions to maintain 60FPS UI rendering.<br>
         <strong>Challenges:</strong> Managing LLM rate limits and inference latency. Solved by implementing a custom priority queue and caching layer.<br>
         <strong>Technologies:</strong> Next.js, Node.js, OpenAI API, PostgreSQL.<br>
-        <strong>Lessons Learned:</strong> Edge caching strategies for AI responses significantly reduce operational costs.<br>
       </details>
       <br>
       <a href="#">Repository</a> • <a href="#">Live Demo</a>
@@ -130,8 +126,8 @@
       <h3>SonicBridge</h3>
       <sub>Low-Latency Audio Streaming Protocol</sub><br><br>
       <strong>Problem:</strong> High latency and jitter in standard web-based audio transmission protocols.<br>
-      <strong>Solution:</strong> Custom implementation using raw WebSockets to stream binary audio buffers in real-time.<br>
-      <strong>Impact:</strong> Achieved sub-50ms latency across distributed clients, suitable for real-time collaboration.<br>
+      <strong>Solution:</strong> Custom implementation using raw WebSockets to stream binary audio buffers.<br>
+      <strong>Impact:</strong> Designed for low-latency communication across distributed clients, suitable for real-time collaboration.<br>
       <br>
       <details>
         <summary><strong>View Architectural Breakdown</strong></summary>
@@ -140,7 +136,6 @@
         <strong>Engineering Decisions:</strong> Bypassed standard HTTP overhead by establishing persistent TCP connections and sending compressed binary packets.<br>
         <strong>Challenges:</strong> Handling packet loss and buffer underruns in the browser's AudioContext.<br>
         <strong>Technologies:</strong> Node.js, WebSockets, Web Audio API, ArrayBuffers.<br>
-        <strong>Lessons Learned:</strong> Managing memory allocation manually is critical when streaming continuous binary data in V8.<br>
       </details>
       <br>
       <a href="#">Repository</a> • <a href="#">Live Demo</a>
@@ -154,7 +149,7 @@
   <tr>
     <td width="30%"><strong>HomeProof</strong></td>
     <td>
-      Computer Vision pipeline for automated property validation. Built with FastAPI and OpenCV. Overcame inconsistent lighting via histogram equalization.<br>
+      AI-powered property inspection platform. Built with FastAPI, YOLOv8, and Google Gemini for automated property validation and AI-assisted inspection.<br>
       <a href="#">Repository</a> • <a href="#">Live Demo</a>
     </td>
   </tr>
@@ -192,7 +187,7 @@
   </tr>
 </table>
 
-### `[B] TECHNOLOGY ECOSYSTEM`
+### `[B] ENGINEERING STACK`
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
@@ -253,15 +248,7 @@
     <td width="20%" valign="top"><strong>2026</strong></td>
     <td>
       <strong>Web Development Intern</strong> — RootedLabs<br>
-      <sub>Designed and developed the official RootedLabs website. Contributed to the AI-powered learning platform for students, teachers, parents, and school administrators.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top"><strong>2026</strong></td>
-    <td>
-      <strong>Hackathon Winner (🥇 1st Place)</strong> — Syntax2Code Industry Simulation<br>
-      <sub><strong>Role:</strong> Team Lead • Full Stack Developer</sub><br>
-      <sub>Built StakeUp, an AI-powered accountability platform within the hackathon timeline.</sub>
+      <sub>Built and deployed the official RootedLabs website and contributed to the AI-powered learning platform by developing scalable frontend components and production-ready features.</sub>
     </td>
   </tr>
   <tr>
@@ -282,7 +269,35 @@
 
 <br>
 
-## `7.0 SYSTEM OBSERVABILITY`
+## `7.0 ENGINEERING ACHIEVEMENTS`
+
+<table width="100%">
+  <tr>
+    <td width="15%" align="center"><h1>🥇</h1></td>
+    <td width="85%">
+      <strong>Syntax2Code Industry Simulation Hackathon</strong> — 1st Place<br>
+      <sub><strong>Project:</strong> StakeUp | <strong>Role:</strong> Team Lead</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="15%" align="center"><h1>🥈</h1></td>
+    <td width="85%">
+      <strong>TechXplore</strong> — 2nd Place<br>
+      <sub><strong>Focus:</strong> Software Development Competition</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="15%" align="center"><h1>🥉</h1></td>
+    <td width="85%">
+      <strong>NEXORA</strong> — 3rd Place<br>
+      <sub><strong>Focus:</strong> AI Solution Development</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## `8.0 SYSTEM OBSERVABILITY`
 
 ### `[A] REPOSITORY HEALTH`
 <table width="100%">
@@ -336,7 +351,15 @@
 
 <br>
 
-## `8.0 PROTOCOL TERMINATION // HANDSHAKE`
+## `9.0 CERTIFICATIONS`
+
+<p align="center">
+  <sub><strong>Oracle • Google • NVIDIA • Coursera • Microsoft • TATA Forage • Deloitte</strong></sub>
+</p>
+
+<br>
+
+## `10.0 PROTOCOL TERMINATION // HANDSHAKE`
 
 <p align="left">
   This specification outlines current operational parameters. For deep-dive architectural discussions, engineering collaborations, or infrastructure inquiries, initiate a handshake protocol:
@@ -344,9 +367,21 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="33%"><a href="mailto:16saidheeraj@gmail.com"><strong>SMTP</strong> // Email</a></td>
-    <td align="center" width="33%"><a href="https://linkedin.com/in/sai-dheeraj-a1145830b"><strong>TCP</strong> // LinkedIn</a></td>
-    <td align="center" width="33%"><a href="https://saidheeraj.co.in"><strong>HTTP</strong> // Portfolio</a></td>
+    <td align="center" width="33%">
+      <a href="mailto:16saidheeraj@gmail.com">
+        <strong>SMTP</strong> // Email
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://linkedin.com/in/sai-dheeraj-a1145830b">
+        <strong>TCP</strong> // LinkedIn
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://saidheeraj.co.in">
+        <strong>HTTP</strong> // Portfolio
+      </a>
+    </td>
   </tr>
 </table>
 
