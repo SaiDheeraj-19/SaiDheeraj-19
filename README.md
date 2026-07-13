@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <sub><strong>SYS_SPEC_V2.0</strong> • ARCHITECTURE DOCUMENTATION • <strong>MAINTAINER:</strong> R. SAI DHEERAJ</sub>
+  <sub><strong>SYS_SPEC_V2.1</strong> • ARCHITECTURE DOCUMENTATION • <strong>MAINTAINER:</strong> R. SAI DHEERAJ</sub>
 </div>
 
 <br><br>
@@ -56,67 +56,41 @@
     <td width="33%" valign="top">
       <strong>Frontend Engineering</strong><br>
       <sub>React, Next.js, Tailwind CSS</sub><br>
-      <a href="#50-system-dependencies--projects">StakeUp</a> • <a href="#50-system-dependencies--projects">ClassSync</a>
+      <a href="#40-system-dependencies--projects">StakeUp</a> • <a href="#40-system-dependencies--projects">ClassSync</a>
     </td>
     <td width="33%" valign="top">
       <strong>Backend Engineering</strong><br>
       <sub>Node.js, Express, FastAPI, WebSockets</sub><br>
-      <a href="#50-system-dependencies--projects">SonicBridge</a> • <a href="#50-system-dependencies--projects">HomeProof</a>
+      <a href="#40-system-dependencies--projects">SonicBridge</a> • <a href="#40-system-dependencies--projects">HomeProof</a>
     </td>
     <td width="33%" valign="top">
       <strong>Artificial Intelligence</strong><br>
       <sub>LLM Orchestration, RAG Pipelines</sub><br>
-      <a href="#50-system-dependencies--projects">Solvra</a> • <a href="#50-system-dependencies--projects">StakeUp</a>
+      <a href="#40-system-dependencies--projects">Solvra</a> • <a href="#40-system-dependencies--projects">StakeUp</a>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
       <br><strong>Databases</strong><br>
       <sub>PostgreSQL, MongoDB, Redis</sub><br>
-      <a href="#40-professional-experience">RootedLabs</a> • <a href="#50-system-dependencies--projects">StakeUp</a>
+      <a href="#60-operational-history">RootedLabs</a> • <a href="#40-system-dependencies--projects">StakeUp</a>
     </td>
     <td width="33%" valign="top">
       <br><strong>Security</strong><br>
       <sub>JWT, OAuth, Rate Limiting</sub><br>
-      <a href="#50-system-dependencies--projects">ClassSync</a> • <a href="#40-professional-experience">RootedLabs</a>
+      <a href="#40-system-dependencies--projects">ClassSync</a> • <a href="#60-operational-history">RootedLabs</a>
     </td>
     <td width="33%" valign="top">
       <br><strong>Computer Vision</strong><br>
       <sub>Image Processing, OCR</sub><br>
-      <a href="#50-system-dependencies--projects">HomeProof</a>
+      <a href="#40-system-dependencies--projects">HomeProof</a>
     </td>
   </tr>
 </table>
 
 <br>
 
-## `4.0 PROFESSIONAL EXPERIENCE`
-
-### RootedLabs
-<sub><strong>Web Development Intern</strong></sub>
-
-<table width="100%">
-  <tr>
-    <td width="20%" valign="top"><strong>Impact</strong></td>
-    <td>Reduced data retrieval latency and improved administrative dashboard throughput for internal teams.</td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top"><strong>Architecture</strong></td>
-    <td>Designed and deployed a modular REST API interacting with a normalized relational database, decoupling business logic from the presentation layer.</td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top"><strong>Contributions</strong></td>
-    <td>Implemented robust authentication flows, optimized heavy database queries using indexing, and refactored legacy client-side state management into a predictable, centralized store.</td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top"><strong>Technologies</strong></td>
-    <td>React, Express, PostgreSQL, Redis, JWT.</td>
-  </tr>
-</table>
-
-<br>
-
-## `5.0 SYSTEM DEPENDENCIES & PROJECTS`
+## `4.0 SYSTEM DEPENDENCIES & PROJECTS`
 
 <table width="100%">
   <tr>
@@ -202,39 +176,7 @@
 
 <br>
 
-## `6.0 ENGINEERING ACHIEVEMENTS`
-
-<table width="100%">
-  <tr>
-    <td width="15%" align="center"><h1>🥇</h1></td>
-    <td width="85%">
-      <strong>Syntax2Code Industry Simulation Hackathon</strong> — 1st Place<br>
-      <sub><strong>Project:</strong> StakeUp | <strong>Role:</strong> Team Leader & Full Stack Developer</sub><br>
-      <strong>Contribution:</strong> Architected the core system, integrated the AI engine, and led frontend development.<br>
-      <strong>Lessons Learned:</strong> Fast architectural iteration and strict component boundaries are essential during high-pressure sprints.
-    </td>
-  </tr>
-  <tr>
-    <td width="15%" align="center"><h1>🥈</h1></td>
-    <td width="85%">
-      <strong>TechXplore</strong> — 2nd Place<br>
-      <sub><strong>Focus:</strong> Algorithm Optimization & Systems Design</sub><br>
-      <strong>Impact:</strong> Engineered an optimized data ingestion pipeline that outperformed 90% of competing implementations under extreme load testing.
-    </td>
-  </tr>
-  <tr>
-    <td width="15%" align="center"><h1>🥉</h1></td>
-    <td width="85%">
-      <strong>NEXORA</strong> — 3rd Place<br>
-      <sub><strong>Focus:</strong> Product Engineering & Rapid Prototyping</sub><br>
-      <strong>Impact:</strong> Delivered a fully functional Minimum Viable Product within 24 hours, focusing strictly on core user constraints and robust error handling.
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## `7.0 KNOWLEDGE BASE`
+## `5.0 KNOWLEDGE BASE`
 
 <table width="100%">
   <tr>
@@ -261,7 +203,43 @@
 
 <br>
 
-## `8.0 TELEMETRY`
+## `6.0 OPERATIONAL HISTORY`
+
+<table width="100%">
+  <tr>
+    <td width="20%" valign="top"><strong>2026</strong></td>
+    <td>
+      <strong>Web Development Intern</strong> — RootedLabs<br>
+      <sub>Designed and developed the official RootedLabs website. Contributed to the AI-powered learning platform for students, teachers, parents, and school administrators.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top"><strong>2026</strong></td>
+    <td>
+      <strong>Hackathon Winner (🥇 1st Place)</strong> — Syntax2Code Industry Simulation<br>
+      <sub><strong>Role:</strong> Team Lead • Full Stack Developer</sub><br>
+      <sub>Built StakeUp, an AI-powered accountability platform within the hackathon timeline.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top"><strong>2025</strong></td>
+    <td>
+      <strong>Full Stack Developer</strong><br>
+      <sub>Built multiple AI-powered and real-time software systems, including HomeProof, ClassSync, SonicBridge, and Solvra.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top"><strong>2024</strong></td>
+    <td>
+      <strong>B.Tech Computer Science & Engineering</strong> — G.P.C.E.T<br>
+      <sub>Joined G. Pullaiah College of Engineering and Technology. Started specializing in Full Stack Development, Artificial Intelligence, and Modern Software Architecture.</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## `7.0 TELEMETRY`
 
 <table width="100%">
   <tr>
@@ -285,9 +263,9 @@
       <br>
       <sub><strong>ACTIVITY GRAPH // CONTRIBUTION PIPELINE</strong></sub><br><br>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/github-contribution-grid-snake.svg">
-        <img alt="Contribution pipeline telemetry" src="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/github-contribution-grid-snake.svg" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/dist/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/dist/github-contribution-grid-snake.svg">
+        <img alt="Contribution pipeline telemetry" src="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/dist/github-contribution-grid-snake.svg" width="100%">
       </picture>
     </td>
   </tr>
@@ -295,7 +273,7 @@
 
 <br>
 
-## `9.0 PROTOCOL TERMINATION // HANDSHAKE`
+## `8.0 PROTOCOL TERMINATION // HANDSHAKE`
 
 <p align="left">
   This specification outlines current operational parameters. For deep-dive architectural discussions, engineering collaborations, or infrastructure inquiries, initiate a handshake protocol:
