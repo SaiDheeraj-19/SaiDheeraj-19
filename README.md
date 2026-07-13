@@ -300,9 +300,24 @@
 
 <table width="100%">
   <tr>
-    <td align="center" width="33%"><a href="mailto:16saidheeraj@gmail.com"><strong>SMTP</strong> // Email</a></td>
-    <td align="center" width="33%"><a href="https://linkedin.com/in/sai-dheeraj-a1145830b"><strong>TCP</strong> // LinkedIn</a></td>
-    <td align="center" width="33%"><a href="https://saidheeraj.co.in"><strong>HTTP</strong> // Portfolio</a></td>
+    <td align="center" width="33%">
+      <a href="mailto:16saidheeraj@gmail.com">
+        <img src="https://cdn.simpleicons.org/gmail/8b949e" width="28" height="28" alt="Email"><br><br>
+        <strong>SMTP</strong> // Email
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://linkedin.com/in/sai-dheeraj-a1145830b">
+        <img src="https://cdn.simpleicons.org/linkedin/8b949e" width="28" height="28" alt="LinkedIn"><br><br>
+        <strong>TCP</strong> // LinkedIn
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://saidheeraj.co.in">
+        <img src="https://cdn.simpleicons.org/w3c/8b949e" width="28" height="28" alt="Portfolio"><br><br>
+        <strong>HTTP</strong> // Portfolio
+      </a>
+    </td>
   </tr>
 </table>
 
