@@ -3,11 +3,6 @@
     .bg { fill: #f8f9fa; stroke: #e9ecef; stroke-width: 1; stroke-dasharray: 4; }
     .text-main { font-family: ui-monospace, monospace; font-size: 14px; fill: #6c757d; }
     .text-sub { font-family: ui-sans-serif, sans-serif; font-size: 10px; fill: #adb5bd; }
-    @media (prefers-color-scheme: dark) {
-      .bg { fill: #0d1117; stroke: #30363d; }
-      .text-main { fill: #8b949e; }
-      .text-sub { fill: #6e7681; }
-    }
   </style>
   <rect width="800" height="200" class="bg" rx="4" />
   <text x="400" y="95" text-anchor="middle" class="text-main">[CONTRIBUTION SNAKE PLACEHOLDER]</text>

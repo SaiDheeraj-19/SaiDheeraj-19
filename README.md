@@ -166,14 +166,22 @@ The open-source ecosystem provides the primitives for modern infrastructure. Dev
 ## `8.0 TELEMETRY`
 
 <div align="center">
-  <img src="./assets/svg/github-stats-placeholder.svg" alt="System Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/github-stats-placeholder-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/svg/github-stats-placeholder-light.svg">
+    <img alt="System Stats" src="./assets/svg/github-stats-placeholder-light.svg">
+  </picture>
 </div>
 
 <br>
 
 <div align="center">
   <sub><strong>ACTIVITY GRAPH // CONTRIBUTION PIPELINE</strong></sub><br><br>
-  <img alt="Contribution pipeline telemetry" src="./assets/svg/github-snake-placeholder.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/github-snake-placeholder-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/svg/github-snake-placeholder-light.svg">
+    <img alt="Contribution pipeline telemetry" src="./assets/svg/github-snake-placeholder-light.svg">
+  </picture>
 </div>
 
 <br>
