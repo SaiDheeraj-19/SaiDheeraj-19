@@ -245,9 +245,9 @@
   <tr>
     <td valign="top" width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&hide_rank=true&theme=transparent&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=8b949e">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&hide_rank=true&theme=transparent&bg_color=00000000&title_color=24292f&text_color=24292f&icon_color=24292f">
-        <img alt="System Stats" src="https://github-stats-extended.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&hide_rank=true&theme=transparent&bg_color=00000000&title_color=24292f&text_color=24292f&icon_color=24292f" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&hide_rank=true&hide_title=true&theme=transparent&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=8b949e">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&hide_rank=true&hide_title=true&theme=transparent&bg_color=00000000&title_color=24292f&text_color=24292f&icon_color=24292f">
+        <img alt="System Stats" src="https://github-stats-extended.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&hide_rank=true&hide_title=true&theme=transparent&bg_color=00000000&title_color=24292f&text_color=24292f&icon_color=24292f" width="100%">
       </picture>
     </td>
     <td valign="top" width="50%" align="center">
