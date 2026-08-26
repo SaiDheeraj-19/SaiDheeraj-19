@@ -161,17 +161,13 @@
 
 <table width="100%">
   <tr>
-    <td width="25%" valign="top"><strong>Current</strong></td>
-    <td>
-      <strong>Artificial Intelligence Engineer</strong> — Sync AI Technologies Pvt Ltd<br>
-      <sub>Focusing on AI-driven software and engineering solutions.</sub>
+    <td width="25%" valign="top">
+      <strong>May 2026 - Aug 2026</strong><br>
+      <sub>Remote, India</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="25%" valign="top"><strong>Previous</strong></td>
     <td>
-      <strong>Full Stack Architect & Technical Team Lead</strong> — RMJ IT Solutions<br>
-      <sub>Contributed to the architecture and development of MicroIntern, an AI-powered skill assessment and recruitment platform. Worked on system architecture, backend development, database design, AI pipelines, API integrations, security, and DevOps workflows.</sub>
+      <strong>Developer Intern</strong> — RootedLabs<br>
+      <sub>Joined RootedLabs as a Developer Intern and successfully developed the company's official website from concept to deployment. This role has provided hands-on experience in full-stack development, product engineering, system design, and working in a fast-paced startup environment.</sub>
     </td>
   </tr>
 </table>
