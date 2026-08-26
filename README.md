@@ -265,9 +265,9 @@
   <tr>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SaiDheeraj-19&theme=transparent&hide_border=true&title_color=8b949e&text_color=8b949e&icon_color=8b949e">
-        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=SaiDheeraj-19&theme=transparent&hide_border=true&title_color=24292f&text_color=24292f&icon_color=24292f">
-        <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com/?user=SaiDheeraj-19&theme=transparent&hide_border=true&title_color=24292f&text_color=24292f&icon_color=24292f" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SaiDheeraj-19&theme=transparent&hide_border=true&title_color=8b949e&text_color=8b949e&icon_color=8b949e&v=2">
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=SaiDheeraj-19&theme=transparent&hide_border=true&title_color=24292f&text_color=24292f&icon_color=24292f&v=2">
+        <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com/?user=SaiDheeraj-19&theme=transparent&hide_border=true&title_color=24292f&text_color=24292f&icon_color=24292f&v=2" width="100%">
       </picture>
     </td>
   </tr>
