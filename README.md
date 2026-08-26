@@ -265,9 +265,9 @@
   <tr>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SaiDheeraj-19&bg_color=00000000&color=8b949e&line=444c56&point=c9d1d9&hide_border=true">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SaiDheeraj-19&bg_color=00000000&color=24292f&line=24292f&point=24292f&hide_border=true">
-        <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SaiDheeraj-19&bg_color=00000000&color=24292f&line=24292f&point=24292f&hide_border=true" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SaiDheeraj-19&theme=transparent&hide_border=true&title_color=8b949e&text_color=8b949e&icon_color=8b949e&date_format=M%20j%5B%2C%20Y%5D">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SaiDheeraj-19&theme=transparent&hide_border=true&title_color=24292f&text_color=24292f&icon_color=24292f&date_format=M%20j%5B%2C%20Y%5D">
+        <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiDheeraj-19&theme=transparent&hide_border=true&title_color=24292f&text_color=24292f&icon_color=24292f&date_format=M%20j%5B%2C%20Y%5D" width="100%">
       </picture>
     </td>
   </tr>
