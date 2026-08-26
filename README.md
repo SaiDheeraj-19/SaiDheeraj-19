@@ -245,16 +245,16 @@
   <tr>
     <td valign="top" width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&theme=transparent&title_color=8b949e&text_color=8b949e&icon_color=8b949e">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&theme=transparent&title_color=24292f&text_color=24292f&icon_color=24292f">
-        <img alt="System Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&theme=transparent&title_color=24292f&text_color=24292f&icon_color=24292f" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=8b949e">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=24292f&text_color=24292f&icon_color=24292f">
+        <img alt="System Stats" src="https://github-readme-stats.vercel.app/api?username=SaiDheeraj-19&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=24292f&text_color=24292f&icon_color=24292f" width="100%">
       </picture>
     </td>
     <td valign="top" width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SaiDheeraj-19&layout=compact&hide_border=true&theme=transparent&title_color=8b949e&text_color=8b949e">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SaiDheeraj-19&layout=compact&hide_border=true&theme=transparent&title_color=24292f&text_color=24292f">
-        <img alt="Top Languages" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SaiDheeraj-19&layout=compact&hide_border=true&theme=transparent&title_color=24292f&text_color=24292f" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDheeraj-19&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=8b949e&text_color=8b949e">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDheeraj-19&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=24292f&text_color=24292f">
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDheeraj-19&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=24292f&text_color=24292f" width="100%">
       </picture>
     </td>
   </tr>
@@ -265,9 +265,9 @@
   <tr>
     <td align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SaiDheeraj-19&theme=transparent&hide_border=true&title_color=8b949e&text_color=8b949e&icon_color=8b949e&date_format=M%20j%5B%2C%20Y%5D">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SaiDheeraj-19&theme=transparent&hide_border=true&title_color=24292f&text_color=24292f&icon_color=24292f&date_format=M%20j%5B%2C%20Y%5D">
-        <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiDheeraj-19&theme=transparent&hide_border=true&title_color=24292f&text_color=24292f&icon_color=24292f&date_format=M%20j%5B%2C%20Y%5D" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=SaiDheeraj-19&theme=transparent&hide_border=true&title_color=8b949e&text_color=8b949e&icon_color=8b949e&date_format=M%20j%5B%2C%20Y%5D&background=00000000">
+        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=SaiDheeraj-19&theme=transparent&hide_border=true&title_color=24292f&text_color=24292f&icon_color=24292f&date_format=M%20j%5B%2C%20Y%5D&background=00000000">
+        <img alt="GitHub Streak Stats" src="https://streak-stats.demolab.com/?user=SaiDheeraj-19&theme=transparent&hide_border=true&title_color=24292f&text_color=24292f&icon_color=24292f&date_format=M%20j%5B%2C%20Y%5D&background=00000000" width="100%">
       </picture>
     </td>
   </tr>
