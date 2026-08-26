@@ -20,89 +20,56 @@
 ## `1.0 ABSTRACT & OBJECTIVE`
 
 <p align="left">
-  <strong>R. Sai Dheeraj</strong> is a software engineer focused on product engineering, system design, and scalable architectures. The primary operational objective is resolving technical constraints through pragmatic design decisions, robust backend infrastructure, and highly performant interfaces. Execution prioritizes maintainability, architectural clarity, and measurable impact over trend-driven adoption.
+  <strong>I am a Full-Stack Developer and AI Engineer</strong> focused on building intelligent, scalable, and production-ready software products that solve real-world problems.
+</p>
+<p align="left">
+  I enjoy transforming ideas into practical digital products by combining software engineering, artificial intelligence, system design, and product thinking. My work spans full-stack web development, mobile applications, AI-powered systems, real-time platforms, automation solutions, and end-to-end product engineering.
+</p>
+<p align="left">
+  As an AI Engineer, my work and interests span Generative AI, Large Language Models, Computer Vision, Deep Learning, Natural Language Processing, AI Agents, intelligent automation, multimodal AI, and AI model integration. I am particularly interested in taking AI beyond experimentation and integrating intelligent capabilities into reliable software products that users can actually interact with and benefit from.
 </p>
 
 <br>
 
-## `2.0 CURRENT EXECUTION`
+## `2.0 ENGINEERING DOMAINS`
+
+<p align="left">
+  I work across the complete software development lifecycle — from understanding a problem and defining the product requirements to designing system architecture, developing applications, integrating AI capabilities, building APIs and databases, testing, deploying, and continuously improving the product.
+</p>
 
 <table width="100%">
   <tr>
-    <td width="25%"><strong>Current Build</strong></td>
-    <td>
-      AI-powered software platforms focused on accountability, property inspection,
-      and intelligent productivity using modern web technologies and LLMs.
+    <td width="50%" valign="top">
+      <strong>Core Competencies</strong><br>
+      <sub>• Full-Stack Web Development</sub><br>
+      <sub>• Artificial Intelligence and Machine Learning</sub><br>
+      <sub>• Generative AI and Large Language Models</sub><br>
+      <sub>• Computer Vision and Deep Learning</sub><br>
+      <sub>• Natural Language Processing</sub><br>
+      <sub>• AI Agents and Intelligent Automation</sub>
     </td>
-  </tr>
-
-  <tr>
-    <td width="25%"><strong>Current Focus</strong></td>
-    <td>
-      Full Stack Development • Artificial Intelligence • System Design •
-      Real-Time Applications
-    </td>
-  </tr>
-
-  <tr>
-    <td width="25%"><strong>Current Learning</strong></td>
-    <td>
-      Agentic AI, Model Context Protocol (MCP),
-      Distributed Systems, and scalable backend architecture.
-    </td>
-  </tr>
-
-  <tr>
-    <td width="25%"><strong>Current Research</strong></td>
-    <td>
-      LLM-powered workflows, Computer Vision,
-      AI-assisted developer tools, and intelligent automation.
-    </td>
-  </tr>
-
-  <tr>
-    <td width="25%"><strong>Current Objective</strong></td>
-    <td>
-      Build AI-native products that solve meaningful problems while continuously
-      improving software architecture and engineering craftsmanship.
+    <td width="50%" valign="top">
+      <strong>Systems & Architecture</strong><br>
+      <sub>• Multimodal AI Applications</sub><br>
+      <sub>• Real-Time and WebSocket-Based Systems</sub><br>
+      <sub>• System Design and Scalable Architecture</sub><br>
+      <sub>• Backend and API Engineering</sub><br>
+      <sub>• Mobile Application Development</sub><br>
+      <sub>• Cloud and Product Engineering</sub>
     </td>
   </tr>
 </table>
 
 <br>
 
-## `3.0 ENGINEERING CAPABILITIES`
+## `3.0 BUILDING REAL-WORLD PRODUCTS`
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Frontend Engineering</strong><br>
-      <sub>React 19 • Next.js • TypeScript • Tailwind CSS • React Native</sub>
-    </td>
-    <td width="33%" valign="top">
-      <strong>Backend Engineering</strong><br>
-      <sub>FastAPI • Node.js • Express.js • REST APIs • WebSockets</sub>
-    </td>
-    <td width="33%" valign="top">
-      <strong>Artificial Intelligence</strong><br>
-      <sub>OpenAI API • Google Gemini • YOLOv8 • Speech AI</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top">
-      <br><strong>Data Engineering</strong><br>
-      <sub>PostgreSQL • MongoDB • Supabase</sub>
-    </td>
-    <td width="33%" valign="top">
-      <br><strong>Security</strong><br>
-      <sub>JWT Authentication • RBAC • Bcrypt • Geofencing</sub>
-    </td>
-    <td width="33%" valign="top">
-      <br><strong>Developer Tools</strong><br>
-      <sub>Git • GitHub • Docker • Vercel • Render</sub>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  I have built and worked on multiple full-stack and AI-powered applications across different problem domains. My projects include <strong>StakeUp</strong> (AI-powered accountability platform), <strong>HomeProof</strong> (AI-powered property inspection), <strong>SonicBridge</strong> (low-latency audio streaming), <strong>Aura</strong> (speech-to-text platform), <strong>ClassSync</strong> (academic management), <strong>Wave</strong> (social music platform), and <strong>Fix It</strong> (POS system).
+</p>
+<p align="left">
+  These projects have given me experience working with AI pipelines, computer vision, speech processing, real-time communication, authentication, databases, APIs, cloud services, and scalable application architecture.
+</p>
 
 <br>
 
@@ -190,126 +157,71 @@
 
 <br>
 
-## `5.0 KNOWLEDGE DOMAINS`
+## `5.0 PROFESSIONAL EXPERIENCE`
 
-### `[A] ENGINEERING DOMAINS & RESEARCH`
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <strong>Core Domains</strong><br>
-      <sub>Artificial Intelligence, Full Stack Engineering, Real-Time Systems, Computer Vision, Software Architecture, Developer Experience.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Current Research</strong><br>
-      <sub>Agentic AI, Model Context Protocol (MCP), Large Language Model Systems, Computer Vision, Real-Time Communication, Distributed Systems.</sub>
-    </td>
-  </tr>
-</table>
-
-### `[B] ENGINEERING STACK`
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Frontend</strong><br>
-      <sub>React 19, Next.js, TypeScript, Tailwind CSS.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <strong>Backend</strong><br>
-      <sub>FastAPI, Node.js, Express.js, REST APIs, WebSockets.</sub>
-    </td>
-    <td width="33%" valign="top">
-      <strong>Artificial Intelligence</strong><br>
-      <sub>OpenAI API, Google Gemini, YOLOv8, Speech AI.</sub>
+    <td width="25%" valign="top"><strong>Current</strong></td>
+    <td>
+      <strong>Artificial Intelligence Engineer</strong> — Sync AI Technologies Pvt Ltd<br>
+      <sub>Focusing on AI-driven software and engineering solutions.</sub>
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
-      <br><strong>Databases</strong><br>
-      <sub>PostgreSQL, MongoDB, Supabase.</sub>
-    </td>
-    <td width="66%" colspan="2" valign="top">
-      <br><strong>Cloud & DevOps</strong><br>
-      <sub>Docker, Vercel, Render.</sub>
-    </td>
-  </tr>
-</table>
-
-### `[C] ENGINEERING PRINCIPLES & OBJECTIVES`
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Principles</strong><br>
-      <sub>
-        • Build software that solves real problems.<br>
-        • Prioritize maintainability over complexity.<br>
-        • Design systems for scalability and reliability.<br>
-        • Learn continuously and iterate through execution.
-      </sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Next Objectives</strong><br>
-      <sub>
-        • Build AI-native software products.<br>
-        • Contribute to meaningful open-source projects.<br>
-        • Deepen expertise in scalable backend architecture.<br>
-        • Master distributed systems and modern AI infrastructure.
-      </sub>
+    <td width="25%" valign="top"><strong>Previous</strong></td>
+    <td>
+      <strong>Full Stack Architect & Technical Team Lead</strong> — RMJ IT Solutions<br>
+      <sub>Contributed to the architecture and development of MicroIntern, an AI-powered skill assessment and recruitment platform. Worked on system architecture, backend development, database design, AI pipelines, API integrations, security, and DevOps workflows.</sub>
     </td>
   </tr>
 </table>
 
 <br>
 
-## `6.0 OPERATIONAL HISTORY`
+## `6.0 LEADERSHIP & ACHIEVEMENTS`
 
-<table width="100%">
-  <tr>
-    <td width="20%" valign="top"><strong>2026</strong></td>
-    <td>
-      <strong>Web Development Intern</strong> — RootedLabs<br>
-      <sub>Built and deployed the official RootedLabs website and contributed to the AI-powered learning platform by developing scalable frontend components and production-ready features.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top"><strong>2025</strong></td>
-    <td>
-      <strong>Full Stack Developer</strong><br>
-      <sub>Built multiple AI-powered and real-time software systems, including HomeProof, ClassSync, SonicBridge, and Solvra.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" valign="top"><strong>2024</strong></td>
-    <td>
-      <strong>B.Tech Computer Science & Engineering</strong> — G.P.C.E.T<br>
-      <sub>Joined G. Pullaiah College of Engineering and Technology. Started specializing in Full Stack Development, Artificial Intelligence, and Modern Software Architecture.</sub>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## `7.0 ENGINEERING ACHIEVEMENTS`
+<p align="left">
+  I enjoy taking technical ownership of projects and working with teams to turn ideas into functioning products.
+</p>
 
 <table width="100%">
   <tr>
     <td width="15%" align="center"><h1>🥇</h1></td>
     <td width="85%">
-      <strong>Syntax2Code Industry Simulation Hackathon</strong> — 1st Place<br>
-      <sub><strong>Project:</strong> StakeUp | <strong>Role:</strong> Team Lead</sub>
+      <strong>Syntax2Code Industry Simulation Hackathon 2026</strong> — 1st Place<br>
+      <sub><strong>Role:</strong> Team Leader & Full-Stack Architect (Team of 5)</sub><br>
+      <sub>Designed the end-to-end architecture and oversaw frontend, backend, and AI development for StakeUp within a 24-hour sprint. Received a 6-month internship opportunity for technical execution and innovation.</sub>
     </td>
   </tr>
   <tr>
     <td width="15%" align="center"><h1>🥈</h1></td>
     <td width="85%">
-      <strong>TechXplore</strong> — 2nd Place<br>
-      <sub><strong>Focus:</strong> Software Development Competition</sub>
+      <strong>TechXplore 2026</strong> — 2nd Place<br>
+      <sub>Independently developed and presented a working software solution.</sub>
     </td>
   </tr>
   <tr>
     <td width="15%" align="center"><h1>🥉</h1></td>
     <td width="85%">
-      <strong>NEXORA</strong> — 3rd Place<br>
-      <sub><strong>Focus:</strong> AI Solution Development</sub>
+      <strong>NEXORA Hackathon 2026</strong> — 3rd Place<br>
+      <sub>Independently developed and presented an end-to-end working prototype.</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## `7.0 ENGINEERING PRINCIPLES & VISION`
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Approach to Engineering</strong><br>
+      <sub>I believe great software is not simply about writing code. It starts with understanding the problem. The best solutions come from combining strong engineering fundamentals with thoughtful product design, reliable architecture, and technology that genuinely serves the user's needs. My workflow: <strong>Understand → Design → Build → Integrate → Test → Deploy → Improve</strong>.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>What Drives Me</strong><br>
+      <sub>I am particularly interested in the intersection of software engineering and artificial intelligence. The rapid evolution of AI is creating new possibilities for how software can be designed, built, and experienced. My long-term goal is to continue developing as an engineer, work on increasingly challenging technical problems, contribute to ambitious products, and eventually build technology that can create meaningful impact at scale. I am continuously learning, experimenting with emerging technologies, and turning ideas into working products.</sub>
     </td>
   </tr>
 </table>
@@ -381,7 +293,13 @@
 ## `10.0 PROTOCOL TERMINATION // HANDSHAKE`
 
 <p align="left">
-  This specification outlines current operational parameters. For deep-dive architectural discussions, engineering collaborations, or infrastructure inquiries, initiate a handshake protocol:
+  <strong>Let's Build:</strong> I am open to collaborating with ambitious teams, developers, founders, and organizations working on meaningful technical problems. If you are interested in AI engineering, full-stack development, product engineering, intelligent automation, or building something from the ground up, feel free to connect.
+</p>
+
+<p align="left">
+  <strong>R. Sai Dheeraj</strong><br>
+  <sub>Full-Stack Developer | AI Engineer</sub><br>
+  <sub>Building intelligent software. Turning ideas into products.</sub>
 </p>
 
 <div align="center">
