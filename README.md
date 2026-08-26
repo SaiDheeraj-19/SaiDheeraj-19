@@ -178,7 +178,7 @@
     </td>
   </tr>
   <tr>
-    <td width="25%" valign="top"><strong>Previous</strong></td>
+    <td width="25%" valign="top"><strong>Current</strong></td>
     <td>
       <strong>Full Stack Architect & Technical Team Lead</strong> — RMJ IT Solutions<br>
       <sub>Contributed to the architecture and development of MicroIntern, an AI-powered skill assessment and recruitment platform. Worked on system architecture, backend development, database design, AI pipelines, API integrations, security, and DevOps workflows.</sub>
