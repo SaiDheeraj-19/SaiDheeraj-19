@@ -260,20 +260,7 @@
   </tr>
 </table>
 
-### `[B] ENGINEERING ACTIVITY`
-<table width="100%">
-  <tr>
-    <td align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/streak-stats-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="./assets/streak-stats-light.svg">
-        <img alt="GitHub Streak Stats" src="./assets/streak-stats-light.svg" width="100%">
-      </picture>
-    </td>
-  </tr>
-</table>
-
-### `[C] AUTOMATION & TRAFFIC`
+### `[B] AUTOMATION & TRAFFIC`
 <table width="100%">
   <tr>
     <td align="center" width="80%">
