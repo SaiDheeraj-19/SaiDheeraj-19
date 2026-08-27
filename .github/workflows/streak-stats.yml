@@ -16,24 +16,14 @@ jobs:
       - name: Generate dark mode streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          github_user: ${{ github.repository_owner }}
           path: assets/streak-stats-dark.svg
-          theme: transparent
-          hide_border: true
-          title_color: 8b949e
-          text_color: 8b949e
-          icon_color: 8b949e
+          options: user=${{ github.repository_owner }}&theme=transparent&hide_border=true&title_color=8b949e&text_color=8b949e&icon_color=8b949e
 
       - name: Generate light mode streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          github_user: ${{ github.repository_owner }}
           path: assets/streak-stats-light.svg
-          theme: transparent
-          hide_border: true
-          title_color: 24292f
-          text_color: 24292f
-          icon_color: 24292f
+          options: user=${{ github.repository_owner }}&theme=transparent&hide_border=true&title_color=24292f&text_color=24292f&icon_color=24292f
 
       - name: Commit and push changes
         run: |
