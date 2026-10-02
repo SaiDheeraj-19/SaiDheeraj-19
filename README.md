@@ -14,8 +14,6 @@ I build at the bleeding edge of software and artificial intelligence. My passion
 <br><br>
 While pursuing my B.Tech in Computer Science, my real focus is bridging the gap between theoretical AI and production-ready software. I make code do cool things. 
 <br><br>
-<i>Things like this:</i>
-<br><br>
 <picture>
   <!-- Image for Dark Mode -->
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
