@@ -1,6 +1,21 @@
+<div align="center">
+  <h2>Hello, I'm R. Sai Dheeraj.</h2>
+  <i>Crafting intelligence. Engineering scale.</i>
+</div>
+
+---
+
 <p align="center">
-  <b> Hello! I'm R. Sai Dheeraj </b> <br> <br>
-  I'm a <b>Full-Stack Developer | AI Engineer</b>, passionate about building LLM & RAG applications, AI agents, computer vision, and speech systems. <br> While not studying for my B.Tech in Computer Science, I make code do cool things. Things like this: <br><br>
+  <b>Full-Stack Developer</b> | <b>AI Engineer</b>
+</p>
+
+<p align="center">
+I build at the bleeding edge of software and artificial intelligence. My passion lies in architecting LLM & RAG applications, engineering autonomous AI agents, and developing robust computer vision and speech systems. 
+<br><br>
+While pursuing my B.Tech in Computer Science, my real focus is bridging the gap between theoretical AI and production-ready software. I make code do cool things. 
+<br><br>
+<i>Things like this:</i>
+<br><br>
 <picture>
   <!-- Image for Dark Mode -->
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
