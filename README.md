@@ -76,8 +76,8 @@ Check out my work and warm my heart by getting involved in my <a href="https://g
       </picture>
     </td>
     <td align="center" width="20%">
-      <sub><strong>VISITOR TELEMETRY</strong></sub><br><br>
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=SaiDheeraj-19.SaiDheeraj-19" alt="Visitor Count">
+      <sub><strong>SYS_OBSERVABILITY</strong></sub><br><br>
+      <img src="https://komarev.com/ghpvc/?username=SaiDheeraj-19&style=for-the-badge&color=58A6FF&label=UNIQUE+VISITS" alt="Visitor Count">
     </td>
   </tr>
 </table>
