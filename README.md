@@ -32,57 +32,18 @@ Check out my work and warm my heart by getting involved in my <a href="https://g
 
 ---
 
-<h3 align="center">⚙️ Core Architecture & Tech Stack</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br>
-  <img src="https://img.shields.io/badge/-React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" />
-  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/-RAG_&_LLMs-121011?style=for-the-badge" />
-  <br>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+### Tech Stack & Skills
+- **Languages:** Python, TypeScript, JavaScript, SQL
+- **Full-Stack:** React 19, Next.js, React Native, Node.js, Express, FastAPI
+- **AI & ML:** OpenAI, Google Gemini, Groq, LangChain, LlamaIndex, LangGraph, RAG, PyTorch, vLLM, Transformers, OpenCV, YOLOv8
+- **Databases:** PostgreSQL, MongoDB, Supabase, Qdrant, pgvector, Redis
 
-<br>
+### Featured Projects
+- **[StakeUp](https://github.com/SaiDheeraj-19/StakeUp)**: Won 1st Place at Syntax2Code Hackathon! A photo-based task verification app powered by Groq Vision and Llama 3.2 90B Vision.
+- **[HomeProof](https://github.com/SaiDheeraj-19/HomeProof-APP)**: Property inspection app utilizing YOLOv8 for structural damage spotting and Gemini/OpenAI for report generation.
+- **[Sonic Bridge](https://github.com/SaiDheeraj-19/SonicBridge)**: Live audio translation over WebSockets with under 6-second latency.
 
-<h3 align="center">🚀 Featured Deployments</h3>
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="33%" align="center" valign="top">
-        <b>🏆 <a href="https://github.com/SaiDheeraj-19/StakeUp">StakeUp</a></b><br>
-        <i>1st Place @ Syntax2Code</i><br>
-        Photo-based task verification powered by Groq Vision & Llama 3.2 90B Vision.
-      </td>
-      <td width="33%" align="center" valign="top">
-        <b>🏠 <a href="https://github.com/SaiDheeraj-19/HomeProof-APP">HomeProof</a></b><br>
-        <i>AI Property Inspection</i><br>
-        YOLOv8 for structural damage spotting and Gemini/OpenAI for automated reporting.
-      </td>
-      <td width="33%" align="center" valign="top">
-        <b>⚡ <a href="https://github.com/SaiDheeraj-19/SonicBridge">Sonic Bridge</a></b><br>
-        <i>Ultra-Low Latency</i><br>
-        Live audio translation over WebSockets with under 6-second latency.
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<h3 align="center">🛰️ System Observability</h3>
+### System Observability
 
 #### Automation & Traffic
 <table width="100%">
