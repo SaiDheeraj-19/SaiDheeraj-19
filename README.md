@@ -70,9 +70,9 @@ Check out my work and warm my heart by getting involved in my <a href="https://g
   <tr>
     <td align="center" width="80%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/github-contribution-grid-snake.svg">
-        <img alt="Contribution pipeline telemetry" src="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/output/github-contribution-grid-snake.svg" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/main/profile-3d-contrib/profile-night-view.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/main/profile-3d-contrib/profile-gitblock.svg">
+        <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/main/profile-3d-contrib/profile-gitblock.svg" width="100%">
       </picture>
     </td>
     <td align="center" width="20%">
