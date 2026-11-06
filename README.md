@@ -23,11 +23,11 @@
 
 ---
 
-### Featured Systems
+### Ventures & Projects
 
-- **[Kairo Technologies](https://thekairo.tech)** — Cloud OS and AI remote workspace ecosystem:
-  - **[Cloud OS](https://thekairo.dev)**: Distributed web IDE with PTY terminals, persistent workspaces, and remote GPU orchestration on Kubernetes.
-  - **[Orbit](https://orbit.thekairo.dev)**: Autonomous AI operator enabling remote macOS execution directly from iOS and Android.
+- **[Kairo Technologies](https://thekairo.tech)** — Software, AI experiences & computing infrastructure company *(Founder & CEO)*:
+  - **[Kairo Cloud OS](https://thekairo.dev)**: Distributed web IDE with PTY terminals, persistent workspaces, and remote GPU orchestration on Kubernetes.
+  - **[Kairo Orbit](https://orbit.thekairo.dev)**: Autonomous AI operator enabling remote macOS execution directly from iOS and Android.
   - **[PAIR](https://pair.thekairo.dev)**: Intelligent pet matchmaking platform.
 - **[StakeUp](https://github.com/SaiDheeraj-19/StakeUp)** — 24-hour AI accountability app powered by Groq Vision and Llama 3.2 90B Vision with automated proof verification and escrow staking *(1st Place, Syntax2Code Hackathon)*.
 - **[HomeProof](https://github.com/SaiDheeraj-19/HomeProof-APP)** — Real-time property inspection utilizing YOLOv8 for structural damage spotting, Gemini/OpenAI synthesis, and Sarvam AI voice input.
