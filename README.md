@@ -17,18 +17,18 @@
 </p>
 
 <p align="center">
-  Architecting production LLM & RAG systems, autonomous AI agents, and distributed developer platforms.<br>
-  Bridging frontier AI research with resilient, scalable infrastructure.
+  Building <b><a href="https://thekairo.dev">Kairo Cloud OS</a></b> — a complete cloud operating system running in a browser tab.<br>
+  Architecting production LLM & RAG systems, autonomous AI agents, and high-performance computing infrastructure.
 </p>
 
 ---
 
 ### Ventures & Projects
 
-- **[Kairo Technologies](https://thekairo.tech)** — Software, AI experiences & computing infrastructure company *(Founder & CEO)*:
-  - **[Kairo Cloud OS](https://thekairo.dev)**: Distributed web IDE with PTY terminals, persistent workspaces, and remote GPU orchestration on Kubernetes.
-  - **[Kairo Orbit](https://orbit.thekairo.dev)**: Autonomous AI operator enabling remote macOS execution directly from iOS and Android.
-  - **[PAIR](https://pair.thekairo.dev)**: Intelligent pet matchmaking platform.
+- **[Kairo Technologies](https://thekairo.tech)** — AI software & cloud computing infrastructure company *(Founder & CEO)*:
+  - **[Kairo Cloud OS](https://thekairo.dev)**: Complete cloud operating system running entirely inside a browser tab. Provides a full windowed desktop environment, virtual filesystem, PTY terminal, and native AI assistant—offloading heavy workloads (VS Code, Chrome, 3D/GPU compute) to remote cloud clusters or linked hardware with zero local installation.
+  - **[Kairo Orbit](https://orbit.thekairo.dev)**: Autonomous AI operator enabling remote macOS execution and desktop control directly from iOS and Android.
+  - **[PAIR](https://pair.thekairo.dev)**: Intelligent AI-driven pet matchmaking platform.
 - **[StakeUp](https://github.com/SaiDheeraj-19/StakeUp)** — 24-hour AI accountability app powered by Groq Vision and Llama 3.2 90B Vision with automated proof verification and escrow staking *(1st Place, Syntax2Code Hackathon)*.
 - **[HomeProof](https://github.com/SaiDheeraj-19/HomeProof-APP)** — Real-time property inspection utilizing YOLOv8 for structural damage spotting, Gemini/OpenAI synthesis, and Sarvam AI voice input.
 - **[Sonic Bridge](https://github.com/SaiDheeraj-19/SonicBridge)** — Low-latency audio translation engine streaming 1-to-many over WebSockets with VAD and noise suppression in under 6 seconds.
