@@ -48,14 +48,14 @@ Check out my work and warm my heart by getting involved in my <a href="https://g
 #### Automation & Traffic
 <table width="100%">
   <tr>
-    <td align="center" width="80%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/main/profile-3d-contrib/profile-night-view.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/main/profile-3d-contrib/profile-gitblock.svg">
-        <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/SaiDheeraj-19/SaiDheeraj-19/main/profile-3d-contrib/profile-gitblock.svg" width="100%">
-      </picture>
+    <td align="center" width="75%">
+      <a href="https://github.com/yalongwastaken/git-koi">
+        <img src="koi/koi.gif" alt="Sai Dheeraj's Git Koi" width="256">
+      </a>
+      <br>
+      <sub><strong>ACTIVITY_KOI</strong></sub>
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <sub><strong>SYS_OBSERVABILITY</strong></sub><br><br>
       <img src="https://komarev.com/ghpvc/?username=SaiDheeraj-19&style=for-the-badge&color=58A6FF&label=UNIQUE+VISITS" alt="Visitor Count">
     </td>
