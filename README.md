@@ -64,21 +64,22 @@
 
 ### Observability
 
-<table width="100%">
-  <tr>
-    <td align="center" width="75%">
-      <a href="https://github.com/yalongwastaken/git-koi">
-        <img src="koi/koi.gif" alt="Sai Dheeraj's Git Koi" width="440">
-      </a>
-      <br>
-      <sub><strong>ACTIVITY_KOI</strong></sub>
-    </td>
-    <td align="center" width="25%">
-      <sub><strong>SYS_OBSERVABILITY</strong></sub><br><br>
-      <img src="https://komarev.com/ghpvc/?username=SaiDheeraj-19&style=for-the-badge&color=58A6FF&label=UNIQUE+VISITS" alt="Visitor Count">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/yalongwastaken/git-koi">
+    <img src="koi/koi.gif" alt="Sai Dheeraj's Git Koi" width="420">
+  </a>
+  <br>
+  <sub><strong>ACTIVITY_KOI</strong></sub>
+  <br><br>
+  <p>
+    <b>What is this?</b> A living pixel-art koi driven by real-time telemetry from my GitHub activity via <a href="https://github.com/yalongwastaken/git-koi">git-koi</a>.<br>
+    Its pigments are drawn from repository languages (Python, TypeScript, SQL), its anatomy scales with continuous contributions, and its daily swimming behavior reflects the momentum of the day that just concluded.<br>
+    <sub><i>Added to replace conventional static contribution blocks with a calm, living digital ecosystem representing sustained craft.</i></sub>
+  </p>
+  <br>
+  <sub><strong>SYS_OBSERVABILITY</strong></sub><br><br>
+  <img src="https://komarev.com/ghpvc/?username=SaiDheeraj-19&style=for-the-badge&color=58A6FF&label=UNIQUE+VISITS" alt="Visitor Count">
+</div>
 
 <br>
 
