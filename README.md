@@ -68,7 +68,7 @@
   <tr>
     <td align="center" width="75%">
       <a href="https://github.com/yalongwastaken/git-koi">
-        <img src="koi/koi.gif" alt="Sai Dheeraj's Git Koi" width="256">
+        <img src="koi/koi.gif" alt="Sai Dheeraj's Git Koi" width="440">
       </a>
       <br>
       <sub><strong>ACTIVITY_KOI</strong></sub>

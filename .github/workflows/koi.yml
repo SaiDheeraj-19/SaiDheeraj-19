@@ -5,8 +5,6 @@ on:
     # Just after midnight UTC, so the koi shows the day that just ended.
     - cron: "20 0 * * *"
   workflow_dispatch:
-  push:
-    paths: [.github/workflows/koi.yml]
 
 permissions:
   contents: write
@@ -18,10 +16,37 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: yalongwastaken/git-koi@v1
-        with:
-          body: white
-          output-dir: koi
+
+      - name: Setup git-koi
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p /tmp/git-koi
+          gh release download "v1.0.2" --repo "yalongwastaken/git-koi" --dir "/tmp/git-koi" --pattern "*x86_64-unknown-linux-musl.tar.gz"
+          tar -xzf /tmp/git-koi/*.tar.gz -C /tmp/git-koi
+          echo "/tmp/git-koi/git-koi-1.0.2-x86_64-unknown-linux-musl" >> "$GITHUB_PATH"
+
+      - name: Render koi
+        env:
+          GH_TOKEN: ${{ github.token }}
+          KOI_LOGIN: ${{ github.repository_owner }}
+        run: |
+          git-koi collect "$KOI_LOGIN" --output /tmp/snapshot.json
+          python3 -c "
+          import json
+          with open('/tmp/snapshot.json') as f:
+              s = json.load(f)
+          days = s.get('contribution_history', {}).get('days', [])
+          c = sum(d.get('contribution_count', 0) for d in days)
+          m = 100000 / max(c, 1)
+          for d in days:
+              if d.get('contribution_count', 0) > 0:
+                  d['contribution_count'] = max(1, int(round(d['contribution_count'] * m)))
+          with open('/tmp/snapshot.json', 'w') as f:
+              json.dump(s, f)
+          "
+          git-koi render /tmp/snapshot.json --output-dir koi --body white
+
       - name: Commit the koi if it changed
         shell: bash
         run: |
