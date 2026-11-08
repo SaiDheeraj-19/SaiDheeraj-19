@@ -84,8 +84,8 @@
   <sub><strong>SUN GOD NIKA // GEAR 5 AWAKENED (MAX TIER ACCOUNT)</strong></sub>
   <br><br>
   <p>
-    <b>Gear 1 to Gear 5 Evolution:</b> Base Straw Hat (G1) ➔ Gear Second Jet (G2) ➔ Gear Third Gigant (G3) ➔ Gear Fourth Boundman (G4) ➔ <b>Gear Fifth Sun God Nika (G5 MAX)</b>.<br>
-    A living pixel-art character animation tracking GitHub momentum—evolving through every battle gear and awakening into Gear 5 (Max Account) with joyful rubbery bounces, crackling Conqueror's Haki lightning, and chomping giant meat.<br>
+    <b>Account Gear Evolution:</b> Luffy's battle gear dynamically unlocks based on total GitHub contributions (G1 ➔ G2 ➔ G3 ➔ G4 ➔ <b>G5 MAX</b>).<br>
+    Currently unlocked at <b>Gear 5 [Sun God Nika - Max Account]</b> with Joyboy rubbery cartoon bounces, Conqueror's Haki sparks, Drums of Liberation rhythm, and chomping giant meat.<br>
   </p>
   <br>
   <details>
