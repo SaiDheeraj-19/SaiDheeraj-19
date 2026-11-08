@@ -78,14 +78,14 @@
   </p>
   <br>
   <a href="https://github.com/SaiDheeraj-19/GrandLine-AI">
-    <img src="assets/luffy-gear-telemetry.svg" alt="Luffy Gear 5 Max Account Engine" width="850">
+    <img src="luffy/luffy.gif" alt="Monkey D. Luffy Gear 5 Awakening" width="440">
   </a>
   <br>
   <sub><strong>SUN GOD NIKA // GEAR 5 AWAKENED (MAX TIER ACCOUNT)</strong></sub>
   <br><br>
   <p>
     <b>Gear 1 to Gear 5 Evolution:</b> Base Straw Hat (G1) ➔ Gear Second Jet (G2) ➔ Gear Third Gigant (G3) ➔ Gear Fourth Boundman (G4) ➔ <b>Gear Fifth Sun God Nika (G5 MAX)</b>.<br>
-    Features Emperor Bounty telemetry (฿ 3,000,000,000), advanced Conqueror's & Armament Haki distribution across core repos (<a href="https://github.com/SaiDheeraj-19/GrandLine-AI">GrandLine-AI</a>, vLLM, Kairo Cloud OS), and the heartbeat rhythm of the <b>Drums of Liberation</b> (<code>DOOM · DUT · DA · DA</code>) tracking 28-day development momentum.<br>
+    A living pixel-art character animation tracking GitHub momentum—evolving through every battle gear and awakening into Gear 5 (Max Account) with joyful rubbery bounces, crackling Conqueror's Haki lightning, and chomping giant meat.<br>
   </p>
   <br>
   <details>
