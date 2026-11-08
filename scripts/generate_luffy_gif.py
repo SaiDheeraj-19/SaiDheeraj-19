@@ -92,30 +92,30 @@ def draw_sparkle(draw, x, y, size, color):
     draw.line([(x - s2, y - s2), (x + s2, y + s2)], fill=color, width=1)
     draw.line([(x - s2, y + s2), (x + s2, y - s2)], fill=color, width=1)
 
-def draw_bone_meat(draw, x, y, scale=1.0, glaze_color=(56, 189, 248), label=""):
-    """Draw a juicy anime bone-in meat with language glaze and optional label."""
-    bw = int(18 * scale)
-    kr = max(1, int(3 * scale))
-    # Bone shaft & knobs
-    draw.line([(x - bw, y), (x + bw, y)], fill=(245, 245, 245, 255), width=max(1, int(3.5 * scale)))
-    draw.ellipse([x - bw - kr, y - kr, x - bw + kr, y + kr], fill=(245, 245, 245, 255))
-    draw.ellipse([x + bw - kr, y - kr, x + bw + kr, y + kr], fill=(245, 245, 245, 255))
+def draw_bone_meat(draw, x, y, scale=1.0, glaze_color=(56, 189, 248)):
+    """Draw an authentic anime bone-in roast meat with roasted crust and language glaze."""
+    bw = int(22 * scale)
+    kr = max(1, int(3.5 * scale))
+    # White Bone Shaft & Knobs
+    draw.line([(x - bw, y), (x + bw, y)], fill=(250, 250, 250, 255), width=max(1, int(4 * scale)))
+    draw.ellipse([x - bw - kr, y - kr, x - bw + kr, y + kr], fill=(250, 250, 250, 255))
+    draw.ellipse([x + bw - kr, y - kr, x + bw + kr, y + kr], fill=(250, 250, 250, 255))
 
-    # Meat Body (Roasted brown base)
-    mw = int(14 * scale)
-    mh = int(11 * scale)
-    draw.ellipse([x - mw, y - mh, x + mw, y + mh], fill=(160, 50, 30, 255))
+    # Juicy Roasted Meat Body (Rich roasted brown & amber)
+    mw = int(16 * scale)
+    mh = int(12 * scale)
+    # Dark roasted crust
+    draw.ellipse([x - mw, y - mh, x + mw, y + mh], fill=(120, 35, 20, 255))
+    # Juicy roasted meat core
+    draw.ellipse([x - mw + 2, y - mh + 2, x + mw - 2, y + mh - 2], fill=(180, 65, 35, 255))
 
-    # Language Color Glaze
-    gw = int(11 * scale)
-    gh = int(8 * scale)
-    draw.ellipse([x - gw, y - gh, x + gw, y + gh], fill=(*glaze_color, 235))
+    # Language Glaze Sauce Highlight (subtle appetizing glaze accent)
+    gw = int(8 * scale)
+    gh = int(5 * scale)
+    draw.ellipse([x - gw, y - gh - 2, x + gw, y + gh - 2], fill=(*glaze_color, 200))
 
-    # Meat Highlight
-    draw.line([(x - 6 * scale, y - 3 * scale), (x + 6 * scale, y - 3 * scale)], fill=(255, 255, 220, 220), width=max(1, int(1.8 * scale)))
-
-    if label:
-        draw.text((x, y + mh + 3), label, fill=glaze_color, anchor="mt")
+    # Glistening Grill Mark
+    draw.line([(x - 5 * scale, y - 3 * scale), (x + 5 * scale, y - 3 * scale)], fill=(255, 240, 200, 230), width=max(1, int(1.5 * scale)))
 
 def main():
     if not os.path.exists(SPRITES_DIR):
@@ -187,25 +187,12 @@ def main():
             draw.line([(cx + 60, ground_y - sh + 70 + dy), (cx + 45, ground_y - sh + 50 + dy)], fill=(168, 85, 247, 230), width=2)
             draw.line([(cx + 45, ground_y - sh + 50 + dy), (cx + 65, ground_y - sh + 35 + dy)], fill=(253, 224, 71, 230), width=2)
 
-        # 3. Drifting Language Meats floating like git-koi pellets
-        # TypeScript Meat (Drifting on left)
-        ts_meat_y = ground_y - 120 + int(8 * math.sin(bounce_phase))
-        draw_bone_meat(draw, cx - 135, ts_meat_y, scale=1.1, glaze_color=color_ts, label="TS")
-        # Floating steam puff on TS meat
-        draw.ellipse([cx - 138, ts_meat_y - 14, cx - 132, ts_meat_y - 8], fill=(255, 255, 255, 120))
-
-        # Rust / Systems Meat (Drifting on right)
-        rs_meat_y = ground_y - 140 + int(8 * math.cos(bounce_phase))
-        draw_bone_meat(draw, cx + 135, rs_meat_y, scale=1.1, glaze_color=color_rs, label="Rust")
-        # Floating steam puff on Rust meat
-        draw.ellipse([cx + 132, rs_meat_y - 14, cx + 138, rs_meat_y - 8], fill=(255, 255, 255, 120))
-
-        # 4. Composite Luffy Character Sprite
+        # 3. Composite Luffy Character Sprite
         pos_x = cx - sw // 2
         pos_y = ground_y - sh + dy
         img.alpha_composite(spr, (pos_x, pos_y))
 
-        # 5. Giant Python Meat (Held and chomped by Luffy)
+        # 4. Giant Roast Meat (Held and chomped by Luffy)
         meat_x = cx + 42
         meat_y = pos_y + 98
         draw_bone_meat(draw, meat_x, meat_y, scale=1.35, glaze_color=color_py)
