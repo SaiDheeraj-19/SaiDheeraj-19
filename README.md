@@ -65,27 +65,16 @@
 ### Observability
 
 <div align="center">
-  <a href="https://thekairo.dev">
-    <img src="assets/kairo-telemetry.svg" alt="Kairo Telemetry Kernel" width="850">
-  </a>
-  <br>
-  <sub><strong>KAIRO_ORBIT // CLOUD OS TELEMETRY KERNEL</strong></sub>
-  <br><br>
-  <p>
-    <b>What is this?</b> A proprietary cybernetic observability engine engineered for <b><a href="https://thekairo.tech">Kairo Technologies</a></b>, driven by real-time GitHub telemetry and cloud hypervisor momentum.<br>
-    The central glowing 3D reactor pulses with commit velocity, orbital data nodes monitor active ecosystem clusters (<b>Kairo Cloud OS</b>, <b>Orbit AI</b>, <b>vLLM</b>, <b>PAIR</b>), and live HUD telemetry gauges stack runtime frequency and 28-day activity velocity.<br>
-    <sub><i>Engineered to replace generic widgets with a living, mission-control observability deck reflecting production momentum.</i></sub>
-  </p>
-  <br>
   <a href="https://github.com/SaiDheeraj-19/GrandLine-AI">
-    <img src="luffy/luffy.gif" alt="Monkey D. Luffy Gear 5 Awakening" width="440">
+    <img src="luffy/luffy.gif" alt="Monkey D. Luffy Gear 5 Awakening" width="420">
   </a>
   <br>
-  <sub><strong>SUN GOD NIKA // GEAR 5 AWAKENED (MAX TIER ACCOUNT)</strong></sub>
+  <sub><strong>SUN GOD NIKA // GEAR 5 (MAX TIER ACCOUNT)</strong></sub>
   <br><br>
   <p>
-    <b>Account Gear Evolution:</b> Luffy's battle gear dynamically unlocks based on total GitHub contributions (G1 ➔ G2 ➔ G3 ➔ G4 ➔ <b>G5 MAX</b>).<br>
-    Currently unlocked at <b>Gear 5 [Sun God Nika - Max Account]</b> with Joyboy rubbery cartoon bounces, Conqueror's Haki sparks, Drums of Liberation rhythm, and chomping giant meat.<br>
+    <b>What is this?</b> A living pixel-art companion scaled to my GitHub activity (G1 ➔ G2 ➔ G3 ➔ G4 ➔ <b>G5 MAX</b>).<br>
+    Currently unlocked at <b>Gear 5 [Sun God Nika]</b>—bouncing joyfully with Drums of Liberation rhythm, Conqueror's Haki lightning sparks, and chomping giant meat.<br>
+    <sub><i>Added to replace static contribution blocks with the spirit of boundless freedom and continuous awakening.</i></sub>
   </p>
   <br>
   <details>
