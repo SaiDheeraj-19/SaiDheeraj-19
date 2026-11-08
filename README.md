@@ -73,7 +73,7 @@
   <br><br>
   <p>
     <b>What is this?</b> A living pixel-art companion scaled to my GitHub activity (G1 ➔ G2 ➔ G3 ➔ G4 ➔ <b>G5 MAX</b>).<br>
-    Currently unlocked at <b>Gear 5 [Sun God Nika]</b>—bouncing joyfully with Drums of Liberation rhythm, Conqueror's Haki lightning sparks, and chomping giant meat.<br>
+    Currently unlocked at <b>Gear 5 [Sun God Nika]</b>—its dynamic Bounty scales directly with commit velocity (฿ 3,540,000,000) and its bone-in meats are glazed by primary repository languages (Python, TypeScript, Rust).<br>
     <sub><i>Added to replace static contribution blocks with the spirit of boundless freedom and continuous awakening.</i></sub>
   </p>
   <br>
