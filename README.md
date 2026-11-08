@@ -73,7 +73,7 @@
   <br><br>
   <p>
     <b>What is this?</b> A living pixel-art Luffy driven by real-time telemetry from my GitHub activity.<br>
-    His transformation scales with contribution momentum (Gear 1 through Gear 5), his bounty rises directly with commits, and the bone-in meats he feasts on are glazed by primary repository languages (Python, TypeScript, Rust).<br>
+    His transformation scales with contribution momentum (Gear 1 through Gear 5), his dynamic bounty rises directly with commits, and his aura reflects core repository languages (TypeScript, JavaScript, Python).<br>
     <sub><i>Added to celebrate continuous building with the energy, freedom, and joy of the Sun God.</i></sub>
   </p>
   <br>
