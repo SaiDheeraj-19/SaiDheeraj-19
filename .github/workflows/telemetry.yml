@@ -9,8 +9,8 @@ on:
     branches:
       - main
     paths:
-      - "scripts/generate_telemetry.py"
-      - "assets/kairo-logo-256.png"
+      - "scripts/**"
+      - "assets/**"
 
 permissions:
   contents: write
@@ -33,21 +33,23 @@ jobs:
           python3 -m pip install --upgrade pip
           pip install Pillow
 
-      - name: Generate Kairo Telemetry Visualizer
+      - name: Generate Kairo & Luffy Gear 5 Telemetry Visualizers
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           python3 scripts/generate_telemetry.py
+          python3 scripts/generate_luffy_telemetry.py
 
       - name: Commit telemetry if changed
         shell: bash
         run: |
-          git add assets/kairo-telemetry.svg
+          git add assets/kairo-telemetry.svg assets/luffy-gear-telemetry.svg
           if git diff --cached --quiet; then
-            echo "Telemetry visualizer is unchanged; nothing to commit."
+            echo "Telemetry visualizers are unchanged; nothing to commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit --quiet --message "telemetry: sync kairo kernel activity telemetry"
+          git commit --quiet --message "telemetry: sync kairo and luffy gear 5 activity telemetry"
           git push --quiet
+
