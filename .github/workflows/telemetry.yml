@@ -1,0 +1,53 @@
+name: Kairo Telemetry
+
+on:
+  schedule:
+    # Run daily at 00:30 UTC
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/generate_telemetry.py"
+      - "assets/kairo-logo-256.png"
+
+permissions:
+  contents: write
+
+concurrency: telemetry
+
+jobs:
+  telemetry:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python3 -m pip install --upgrade pip
+          pip install Pillow
+
+      - name: Generate Kairo Telemetry Visualizer
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 scripts/generate_telemetry.py
+
+      - name: Commit telemetry if changed
+        shell: bash
+        run: |
+          git add assets/kairo-telemetry.svg
+          if git diff --cached --quiet; then
+            echo "Telemetry visualizer is unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --quiet --message "telemetry: sync kairo kernel activity telemetry"
+          git push --quiet

@@ -65,17 +65,26 @@
 ### Observability
 
 <div align="center">
-  <a href="https://github.com/yalongwastaken/git-koi">
-    <img src="koi/koi.gif" alt="Sai Dheeraj's Git Koi" width="420">
+  <a href="https://thekairo.dev">
+    <img src="assets/kairo-telemetry.svg" alt="Kairo Telemetry Kernel" width="850">
   </a>
   <br>
-  <sub><strong>ACTIVITY_KOI</strong></sub>
+  <sub><strong>KAIRO_ORBIT // CLOUD OS TELEMETRY KERNEL</strong></sub>
   <br><br>
   <p>
-    <b>What is this?</b> A living pixel-art koi driven by real-time telemetry from my GitHub activity via <a href="https://github.com/yalongwastaken/git-koi">git-koi</a>.<br>
-    Its pigments are drawn from repository languages (Python, TypeScript, SQL), its anatomy scales with continuous contributions, and its daily swimming behavior reflects the momentum of the day that just concluded.<br>
-    <sub><i>Added to replace conventional static contribution blocks with a calm, living digital ecosystem representing sustained craft.</i></sub>
+    <b>What is this?</b> A proprietary cybernetic observability engine engineered for <b><a href="https://thekairo.tech">Kairo Technologies</a></b>, driven by real-time GitHub telemetry and cloud hypervisor momentum.<br>
+    The central glowing 3D reactor pulses with commit velocity, orbital data nodes monitor active ecosystem clusters (<b>Kairo Cloud OS</b>, <b>Orbit AI</b>, <b>vLLM</b>, <b>PAIR</b>), and live HUD telemetry gauges stack runtime frequency and 28-day activity velocity.<br>
+    <sub><i>Engineered to replace generic widgets with a living, mission-control observability deck reflecting production momentum.</i></sub>
   </p>
+  <br>
+  <details>
+    <summary><sub><b>VIEW COMPANION DIGITAL ECOSYSTEM (ACTIVITY_KOI)</b></sub></summary>
+    <br>
+    <img src="koi/koi.gif" alt="Sai Dheeraj's Git Koi" width="400">
+    <br>
+    <sub><i>Sustained craft: Living pixel koi reflecting repository language pigments and calm swimming cadence.</i></sub>
+    <br>
+  </details>
   <br>
   <sub><strong>SYS_OBSERVABILITY</strong></sub><br><br>
   <img src="https://komarev.com/ghpvc/?username=SaiDheeraj-19&style=for-the-badge&color=58A6FF&label=UNIQUE+VISITS" alt="Visitor Count">
