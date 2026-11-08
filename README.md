@@ -69,12 +69,12 @@
     <img src="luffy/luffy.gif" alt="Monkey D. Luffy Gear 5 Awakening" width="420">
   </a>
   <br>
-  <sub><strong>SUN GOD NIKA // GEAR 5 (MAX TIER ACCOUNT)</strong></sub>
+  <sub><strong>SUN GOD NIKA // GEAR 5</strong></sub>
   <br><br>
   <p>
-    <b>What is this?</b> A living pixel-art companion scaled to my GitHub activity (G1 ➔ G2 ➔ G3 ➔ G4 ➔ <b>G5 MAX</b>).<br>
-    Currently unlocked at <b>Gear 5 [Sun God Nika]</b>—its dynamic Bounty scales directly with commit velocity (฿ 3,540,000,000) and its bone-in meats are glazed by primary repository languages (Python, TypeScript, Rust).<br>
-    <sub><i>Added to replace static contribution blocks with the spirit of boundless freedom and continuous awakening.</i></sub>
+    <b>What is this?</b> A living pixel-art Luffy driven by real-time telemetry from my GitHub activity.<br>
+    His transformation scales with contribution momentum (Gear 1 through Gear 5), his bounty rises directly with commits, and the bone-in meats he feasts on are glazed by primary repository languages (Python, TypeScript, Rust).<br>
+    <sub><i>Added to celebrate continuous building with the energy, freedom, and joy of the Sun God.</i></sub>
   </p>
   <br>
   <details>

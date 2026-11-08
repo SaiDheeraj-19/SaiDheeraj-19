@@ -230,7 +230,7 @@ def main():
             lx = start_x + i * gap
             draw.text((lx, legend_y), f"🍖 {lname} {lpct:.0f}%", fill=lcolor, anchor="mt")
 
-        draw.text((cx, 372), f"DRIVEN BY {commits} COMMITS • SUN GOD NIKA [MAX]", fill=(148, 163, 184), anchor="mt")
+        draw.text((cx, 372), f"DRIVEN BY {commits} COMMITS • SUN GOD NIKA", fill=(148, 163, 184), anchor="mt")
 
         frames.append(img)
 
